@@ -3,7 +3,7 @@ title: "Quarta 14"
 bg: wednesday
 color: white
 border-color: thursday
-fa-icon: battery-half
+fa-icon: film
 ---
 
 <div class="section-lines section-top section-left"></div>
