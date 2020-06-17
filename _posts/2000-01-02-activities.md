@@ -1,13 +1,13 @@
 ---
-title: "Atividades"
+title: Discover
 bg: activities
 color: white
 icon: cesium.png
 ---
 
-#### De que esperas?
+#### A city church with a community presence
 
-# Temos preparado
+# City Evangelical Church
 <div class="row features">
   <div class="col s12 m4 feature">
     <i class="fa fa-comments-o fa-4x">
