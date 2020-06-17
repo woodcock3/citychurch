@@ -10,22 +10,22 @@ icon: cesium.png
 # City Evangelical Church
 <div class="row features">
   <div class="col s12 m4 feature">
-    <i class="fa fa-comments-o fa-4x">
+    <i class="fa fa-compass fa-4x">
     </i>
-    <h4> Palestras e Workshops </h4>
-    <p class="feature-description"> De Bash a Ionic, aproveita os diferentes temas. </p>
+    <h4> Services </h4>
+    <p class="feature-description"> We meet every Sunday for church services at 10:45 and 18:30. </p>
   </div>
   <div class="col s12 m4 feature">
-    <i class="fa fa-laptop fa-4x">
+    <i class="fa fa-book fa-4x">
     </i>
-    <h4> Hackathons </h4>
-    <p class="feature-description"> Duas hackathons, onde poderás passar a tarde e até a noite connosco, no Departamento de Informática, a programar. </p>
+    <h4> Growth groups </h4>
+    <p class="feature-description"> On Tuesdays, Wednesdays and Thursdays we meet in small groups for bible studies in peoples homes. </p>
   </div>
   <div class="col s12 m4 feature">
     <i class="fa fa-terminal fa-4x">
     </i>
-    <h4> Desafio Algorítimico </h4>
-    <p class="feature-description"> Concurso de programação que decorrerá toda a semana! Enunciado em baixo. </p>
+    <h4> Prayer </h4>
+    <p class="feature-description"> On the first Wednesday of every month is our church prayer meeting. </p>
   </div>
 </div>
 
