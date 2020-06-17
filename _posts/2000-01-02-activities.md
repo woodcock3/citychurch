@@ -10,19 +10,19 @@ icon: cesium.png
 # City Evangelical Church
 <div class="row features">
   <div class="col s12 m4 feature">
-    <i class="fa fa-battery-quarter fa-4x">
+    <i class="fa fa-compass fa-4x">
     </i>
     <h4> Services </h4>
     <p class="feature-description"> We meet every Sunday for church services at 10:45am and 6:30pm. </p>
   </div>
   <div class="col s12 m4 feature">
-    <i class="fa fa-battery-half fa-4x">
+    <i class="fa fa-book fa-4x">
     </i>
     <h4> Growth groups </h4>
     <p class="feature-description"> On Tuesdays, Wednesdays and Thursdays we meet in small groups for bible studies in peoples homes. </p>
   </div>
   <div class="col s12 m4 feature">
-    <i class="fa fa-battery-three-quarters fa-4x">
+    <i class="fa fa-arrow-circle-up fa-4x">
     </i>
     <h4> Prayer </h4>
     <p class="feature-description"> On the first Wednesday of every month is our church prayer meeting. </p>
