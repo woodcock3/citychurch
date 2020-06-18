@@ -41,4 +41,8 @@ Google map to go here
   </li>
 </ul>
 
+
 # Upcoming events
+{% highlight haskell %}
+Event carousel to go here
+{% endhighlight %}
