@@ -17,7 +17,9 @@ powered by [GitHub](http://www.github.com){:target="_blank"} <i class="fa fa-git
     <p class="feature-description">Powered by <a href="https://www.github.com" target="_blank">GitHub <i class="fa fa-github" aria-hidden="true" style="color:white"></i></a></p>
   </div>
   <div class="col s12 m4 feature">
-    <h4> Pages </h4>
-    <p class="feature-description"><img src="/img/safari-pinned-tab.svg" alt="City Evangelical Church logo";" /></p>
-  </div>
+    <div class="contacts">
+      <div class="col s12 organiser-logo">
+    {% include safari-pinned-tab.svg %}
+      </div>
+    </div>
 </div>
