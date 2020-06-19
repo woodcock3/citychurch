@@ -15,7 +15,7 @@ powered by <i class="fa fa-github" aria-hidden="true" style="color:white"></i> [
     <i class="fa fa-life-ring fa-4x">
     </i>
     <h4> Growth groups </h4>
-    <p class="feature-description"> CECLeeds 2020 <img src="/img/github.png" alt="Github logo"</img></p>
+    <p class="feature-description"> <i class="fa fa-copyright" aria-hidden="true" style="color:white"></i> City Evangelical Church 2020 <img src="/img/favicon-16x16.png" alt="City Evangelical Church logo"</img> inspired by [SinglePaged theme](https://github.com/t413/SinglePaged)</p>
   </div>
   <div class="col s12 m4 feature">
     <i class="fa fa-arrow-circle-up fa-4x">
