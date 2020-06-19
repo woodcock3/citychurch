@@ -1,14 +1,7 @@
-<i class="fa fa-copyright" aria-hidden="true" style="color:white"> City Evangelical Church 2020
-&mdash;
-inspired by [SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-powered by [GitHub](http://www.github.com){:target="_blank"} <i class="fa fa-github" aria-hidden="true" style="color:white"></i>
-
-
 <div class="row features">
   <div class="col s12 m4 feature">
     <h4> Pages </h4>
-    <p class="feature-description"><a href="/privacy">Privacy</a> | <a href="/cookies">Cookies</a> | <a href="/ accessibility">Accessibility</a></p>
+    <p class="feature-description"><a href="/privacy">Privacy</a> | <a href="/ accessibility">Accessibility</a> | <a href="/cookies">Cookies</a></p>
   </div>
   <div class="col s12 m4 feature">
     <h4> Credits </h4>
@@ -20,6 +13,7 @@ powered by [GitHub](http://www.github.com){:target="_blank"} <i class="fa fa-git
     <div class="contacts">
       <div class="col s12 organiser-logo">
     {% include safari-pinned-tab.svg %}
-      </div>
+      </div>  
     </div>
+  </div>
 </div>
