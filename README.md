@@ -3,6 +3,12 @@ A church jekyll powered single page site
 This is site is based on http://github.io/t413/SinglePaged
 Template is Jekyll 3.0
 
+Permissions
+===========
+The following directory and its content is copyright of City Evangelical Church. You may not reuse anything therein without the church's written permission:
+
+    /img
+
 Materialize CSS
 ==============
 [Materialize](https://materializecss.com/grid.html) css is used to build the grids/columns, accordions, etc E.g: Responsive grids for Mobile & desktop
