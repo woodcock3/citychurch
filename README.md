@@ -3,6 +3,26 @@ A church jekyll powered single page site
 This is site is based on http://github.io/t413/SinglePaged
 Template is Jekyll 3.0
 
+Materialize CSS
+==============
+[Materialize](https://materializecss.com/grid.html) css is used to build the grids/columns, accordions, etc E.g: Responsive grids for Mobile & desktop
+
+~~~
+<div class="row">
+    <div class="col s12"><p>s12</p></div> #full size grid
+    <div class="col s12 m4 l2"><p>s12 m4</p></div> #
+    <div class="col s12 m4 l8"><p>s12 m4</p></div>
+    <div class="col s12 m4 l2"><p>s12 m4</p></div>
+  </div>
+  <div class="row">
+    <div class="col s12 m6 l3"><p>s12 m6 l3</p></div>
+    <div class="col s12 m6 l3"><p>s12 m6 l3</p></div>
+    <div class="col s12 m6 l3"><p>s12 m6 l3</p></div>
+    <div class="col s12 m6 l3"><p>s12 m6 l3</p></div>
+  </div>
+  ~~~
+
+
 Video and mp3
 =============
 There are two ways to load a video you can embed the video in a the div below:
