@@ -15,13 +15,17 @@ highlighter: rouge
 
 
 ### content configuration ###
-title:       "Code Week 2015 @ UMinho"
-keywords:    "CeSIUM, jekyll, Code Week, github, universidade do minho, departamento informatica"
-description: "Code Week 2015 no Departamento de Informática da Universidade do Minho, organizada pelo CeSIUM - Centro de Estudantes de Engenharia Informática"
-source_link: "https://github.com/cesium/codeweek15"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-67237593-2 ## put YOUR key here to enable tracking! (blank to disable)
+title:              "City Evangelical Church"
+keywords:           "City, evangelical, church, Leeds, best, christian, Jesus, bible, gospel, Christ, God, Faith, Lord"
+description:        "We are a bible belieiving church in Beeston, Leeds who proclaim that Jesus is Lord, raised for the dead and the gospel is good news!"
+source_link:        "https://github.com/cecleeds"
+favicon:            "/img/favicon.ico"
+favicon_16:         "/img/favicon-16x16.png"
+favicon_32:         "/img/favicon-32x32.png"
+touch_icon:         "/img/apple-touch-icon.png" ## City logo as apple touch icon
+safari_pinned_tab:  "/img/safari-pinned-tab.svg" ## put safari pinned tab svg icon here
+
+google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
@@ -37,6 +41,23 @@ colors:
   friday:       '#415992'
   saturday-two: '#39479b'
   contacts:     '#3035A4'
+  black:      '#111111'
+  ## white:      '#f8f8f8'
+  blue:       '#002edf'
+  green:      '#63bd2f'
+  purple:     '#c869bf'
+  orange:     '#fab125'
+  turquoise:  '#0fbfcf'
+  cityorange: '#f29526'
+  cityblue:   '#009ddf'
+  cyan:       '#00dfb2'
+  red_orange: '#df4200'
+  grey:       '#5e5e5e'
+  blue1:      '#0065df'
+  blue2:      '#002edf'
+  blue3:      '#0a00df'
+  bluepurple: '#4200df'
+  citypurple: '#7a00df'
 
 kramdown:
   auto_ids:  false

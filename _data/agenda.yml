@@ -1,16 +1,16 @@
 saturday1:
-  - title: CeSIUM Hackathon
-    time: 10h-20h
-    place: DI A1
+  - title: Come and find out what's happening at City!
+    time: 10:45am and 6:30pm
+    place: City Church
     image: hackathon.png
     typeform: https://cesium.typeform.com/to/KJkgiV
-    text: A primeira CeSIUM Hackathon deste ano será competitiva! Passa o sábado connosco no Departamento de Informática a programar o melhor bot que conseguires. O vencedor terá direito a um prémio! O almoço e coffee break são por nossa conta. Há limite de vagas para as inscrições.
+    text: Thanks for visiting our website and for your interest in our church. We hope you’ll be able to come along to one of our church services on a Sunday at 10:45am or 6:30pm! First visits can be nervewracking, but you’re always welcome at City. We’d love to meet you over a cuppa or coffee after church. City’s a mix of folks from all backgrounds, ethnicities, ages, and walks of life. Feel free to come as you are, there aren’t any dress codes or checklists to worry about! Our church services usually last around 75 to 90 minutes. During any given church service we may sing, pray, hear personal stories, read the bible and, of course, dive into what God has for us as His word, the bible, is preached.
 
   - title: "BragaJS: Meteor Global Distributed Hackathon"
-    time: 11h-11h (24h)
+    time: 10:45am and 6:30pm
     place: DI A1
     image: meteor.png
-    text: Os meetups BragaJS trazem para Portugal uma edição da Meteor Global Distributed Hackathon! Para te inscreveres neste evento, organizado em conjunto com a <a target="_blank" href="http://subvisual.co/">Subvisual</a>, necessitas de te registar no <a target="_blank" href="http://www.meetup.com/bragajs/events/225530868/">Meetup</a> e no <a target="_blank" href="http://info.meteor.com/2015-hackathon">site oficial</a> até 2 de Outubro. Jantar e coffee break são garantidos! Não te esqueças de consultar as regras de submissão.
+    text: If you’re new, you might want to stay for one of our regular Welcome Lunches to find out more about us and what we do at City. Above all, the reason City exists is to share the fantastic news about Jesus Christ, the Son of God. If you’ve never heard that Jesus is good news, this video gives a brief summary of who Jesus is, what He has done, and why He is good news.
 
 monday:
   - title: DI Goes Retro

@@ -1,60 +1,48 @@
 ---
-title: "Atividades"
+title: Events
 bg: activities
 color: white
 icon: cesium.png
 ---
 
-#### De que esperas?
+#### A city church with a community presence
 
-# Temos preparado
+# City Evangelical Church
 <div class="row features">
   <div class="col s12 m4 feature">
-    <i class="fa fa-comments-o fa-4x">
+    <i class="fa fa-compass fa-4x">
     </i>
-    <h4> Palestras e Workshops </h4>
-    <p class="feature-description"> De Bash a Ionic, aproveita os diferentes temas. </p>
+    <h4> Services </h4>
+    <p class="feature-description"> We meet every Sunday for church services at 10:45am and 6:30pm. </p>
   </div>
   <div class="col s12 m4 feature">
-    <i class="fa fa-laptop fa-4x">
+    <i class="fa fa-life-ring fa-4x">
     </i>
-    <h4> Hackathons </h4>
-    <p class="feature-description"> Duas hackathons, onde poderás passar a tarde e até a noite connosco, no Departamento de Informática, a programar. </p>
+    <h4> Growth groups </h4>
+    <p class="feature-description"> On Tuesdays, Wednesdays and Thursdays we meet in small groups for bible studies in peoples homes. </p>
   </div>
   <div class="col s12 m4 feature">
-    <i class="fa fa-terminal fa-4x">
+    <i class="fa fa-arrow-circle-up fa-4x">
     </i>
-    <h4> Desafio Algorítimico </h4>
-    <p class="feature-description"> Concurso de programação que decorrerá toda a semana! Enunciado em baixo. </p>
+    <h4> Prayer </h4>
+    <p class="feature-description"> Our church prayer meeting is on the first Wednesday of every month. </p>
   </div>
 </div>
 
 <ul class="challenge collapsible" data-collapsible="accordion">
   <li>
-    <div class="challenge-title collapsible-header"><i class="fa fa-terminal fa-4x"></i>Enunciado</div>
-    <div class="challenge-body collapsible-body">
+    <div class="challenge-title collapsible-header"><i class="fa fa-chevron-down fa-4x"></i>Map</div>
+    <div class="challenge-body collapsible-body"><div class="icontain"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2357.4899775926147!2d-1.561419883667163!3d53.78076634978253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48795e8490a77217%3A0x290545c46afc5b66!2sCity%20Evangelical%20Church%2C%20Leeds!5e0!3m2!1sen!2suk!4v1592462594306!5m2!1sen!2suk" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></div>
       {% highlight haskell %}
--- Descobrir o posicionamento de aspersores de água
--- Por cada posição regada, 1 ponto é atribuído
--- O objetivo é maximizar a pontuação
-  -- Só se podem colocar no máximo 8 aspersores
-  -- Cada aspersor só pode regar com um raio máximo de 20
-  -- Não se pode regar mais do que um cato
-  -- Não se pode regar fora da área de 51x51
-
--- Posições dos catos:
-  [(1, 14),(3, 47),(18, 6),(18, 2),(22, 17),(37, 3),(9, 6),
-  (23, 10),(12, 49),(21, 50),(33, 0),(30, 47),(36, 16),(20, 22),
-  (2, 41),(37, 48),(18, 9),(48, 36),(28, 34),(5, 24)]
-
--- Syntax do output
-  [(x, y, radius), (x, y, radius)]
--- Exemplo de output
-  [(5, 5, 2), (35, 5, 1)]
-
--- A linguagem para a resolução do desafio fica à tua discrição
+Google map to go here
       {% endhighlight %}
-      <a class="challenge-apply waves-effect waves-light btn bg-white" href="http://storm.cesium.di.uminho.pt/desafio/index.html" target="blank">Submeter</a>
+      <a class="challenge-apply waves-effect waves-light btn bg-white" href="https://goo.gl/maps/4kcnTLjt1V7ZkiCK6" target="blank">Find us on google maps.</a>
     </div>
   </li>
 </ul>
+
+
+# Upcoming events
+{% highlight haskell %}
+Event carousel to go here
+{% endhighlight %}
