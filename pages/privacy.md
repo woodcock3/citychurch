@@ -1,5 +1,7 @@
 ---
 title: Privacy Policy
+layout: blank
+permalink: /privacy/
 ---
 
 ## How we process your data
