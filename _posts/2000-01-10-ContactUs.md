@@ -16,7 +16,7 @@ fa-icon: bullhorn
 <i class="fa fa-address-book-o" aria-hidden="true" style="color:white"></i>  **Pastor:** [pastor@cecleeds.co.uk](mailto:pastor@cecleeds.co.uk)
 
 #### Follow us on:
-<div class="contacts">
+<div class="contactus">
   <div class="col s12 organiser-logo">
     {% include linktree-logo.svg %}
   </div>
