@@ -1,5 +1,7 @@
 ---
-title: Privacy Policy
+title: Safeguarding Policy
+layout: blank
+permalink: /safeguarding/
 ---
 
 ## How we process your data
