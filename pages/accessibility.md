@@ -1,6 +1,6 @@
 ---
 title: Accessibility statement
-layout: basic
+layout: blank
 permalink: /accessibility/
 ---
 
