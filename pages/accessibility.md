@@ -4,7 +4,7 @@ layout: blank
 permalink: /accessibility/
 ---
 
-# Accessibility statement
+## Accessibility statement
 
 We at City Evangelical Church want to make our websites accessible and as simple as possible to understand. We want everyone to be able to use this website.
 
