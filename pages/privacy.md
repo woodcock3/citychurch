@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-layout: pages
+layout: default
 permalink: /privacy/
 ---
 
