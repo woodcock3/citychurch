@@ -2,6 +2,8 @@
 title: Privacy Policy
 layout: default
 permalink: /privacy/
+bg: blue
+fa-icon: book
 ---
 
 ## How we process your data
