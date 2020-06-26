@@ -3,6 +3,7 @@ title: Privacy Policy
 layout: default
 permalink: /privacy/
 bg: blue
+color: white
 fa-icon: book
 ---
 
