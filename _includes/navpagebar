@@ -1,0 +1,5 @@
+<nav><ul>
+    <li class="p-home"><a href="/">home</a></li>
+    <li class="p-privacy"><a href="/privacy/">privacy</a></li>
+    <li class="p-safeguarding"><a href="/safeguarding/">safeguarding</a></li>
+</ul></nav>
