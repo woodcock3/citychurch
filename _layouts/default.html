@@ -1,15 +1,11 @@
 {% include header.html %}
 
-{% for page in site.pages reversed %}
-  {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
       <div id="{{id}}" class="section p-{{id}}">
           <h5 class="icon-title">{{ page.title }}</h5>
-        </div>
        
         <div class="container {{ page.style }}">
           {{ page.content }}
         </div>
       </div>
-{% endfor %}
 
 {% include footer.html %}
