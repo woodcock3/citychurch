@@ -1,7 +1,8 @@
 ---
-title: Accessibility statement
+title: "Accessibility statement"
 layout: default
 bg: cityblue
+style: centre
 permalink: /accessibility/
 ---
 
