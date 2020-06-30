@@ -1,6 +1,7 @@
 ---
 title: Accessibility statement
 layout: default
+bg: cityblue
 permalink: /accessibility/
 ---
 
