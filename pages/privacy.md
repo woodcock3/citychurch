@@ -4,7 +4,6 @@ layout: default
 permalink: /privacy/
 bg: blue
 color: white
-fa-icon: book
 ---
 
 ## How we process your data
