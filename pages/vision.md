@@ -1,7 +1,9 @@
 ---
-title: Vision and beliefs
+title: "Vision and beliefs"
 layout: xtrapage
 bg: cityblue
+color: white
+style: center
 permalink: /vision/
 ---
 
