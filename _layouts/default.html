@@ -1,5 +1,9 @@
 {% include header.html %}
 
+  {% include navpagebar.html %}
+
+  <article>
+
       <div id="{{id}}" class="section p-{{id}}">
           <h5 class="icon-title">{{ page.title }}</h5>
        
@@ -7,5 +11,7 @@
           {{ page.content }}
         </div>
       </div>
+        
+  </arctile>
 
-{% include footer.html %}
+  {% include footer.html %}
