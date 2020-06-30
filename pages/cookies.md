@@ -1,6 +1,7 @@
 ---
 title: Cookies
-layout: blank
+layout: xtrapage
+bg: cityblue
 permalink: /cookies/
 ---
 
