@@ -1,7 +1,9 @@
 ---
-title: Safeguarding Policy
+title: "Safeguarding Policy"
 layout: xtrapage
 bg: cityblue
+color: white
+style: center
 permalink: /safeguarding/
 ---
 
