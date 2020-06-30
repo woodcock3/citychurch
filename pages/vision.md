@@ -1,6 +1,6 @@
 ---
 title: Vision and beliefs
-layout: pages
+layout: xtrapage
 permalink: /vision/
 ---
 
