@@ -1,9 +1,10 @@
 ---
 title: Privacy Policy
 layout: default
-permalink: /privacy/
 bg: cityblue
 color: white
+style: center
+permalink: /privacy/
 ---
 
 ## How we process your data
