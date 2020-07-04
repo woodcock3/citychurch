@@ -42,5 +42,5 @@ icon: cesium.png
 
 # Upcoming events
 {% highlight haskell %}
-Event carousel to go here.
+Owens Event carousel to go here
 {% endhighlight %}
