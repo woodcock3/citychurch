@@ -93,9 +93,6 @@ $(document).ready(function (){
 
   // Mobile side navigation
   $(".sidenav").sidenav();
-	
-  // Flow text - responsive paragraph text
-  $("p").addClass("flow-text");
 
   // Accordion
   $('.collapsible').collapsible();
