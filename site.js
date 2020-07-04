@@ -91,7 +91,11 @@ $(document).ready(function (){
         }
 	});
 
+  // Mobile side navigation
   $(".sidenav").sidenav();
+
+  // Accordion
+  $('.collapsible').collapsible();
 
   // Carrousel settings
   $(document).ready(function(){
