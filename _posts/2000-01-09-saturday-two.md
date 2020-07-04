@@ -70,7 +70,7 @@ fa-icon: laptop
   
 <div class="row">
     <div class="col s12 m7">
-      <div class="card">
+      <div class="card small">
         <div class="card-image">
           <img src="img/staff/youth-w-MM.png">
           <span class="card-title">Card Title</span>
