@@ -27,6 +27,10 @@ Materialize CSS
     <div class="col s12 m6 l3"><p>s12 m6 l3</p></div>
   </div>
   ~~~
+  
+Learn liquid
+============
+https://shopify.github.io/liquid
 
 
 Video and mp3
