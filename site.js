@@ -91,7 +91,7 @@ $(document).ready(function (){
         }
 	});
 
-  $(".button-collapse").sideNav();
+  $(".sidenav").sideNav();
 
   // Carrousel settings
   $(document).ready(function(){
