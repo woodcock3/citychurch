@@ -91,7 +91,7 @@ $(document).ready(function (){
         }
 	});
 
-  $(".sidenav").sideNav();
+  $(".sidenav").sidenav();
 
   // Carrousel settings
   $(document).ready(function(){
