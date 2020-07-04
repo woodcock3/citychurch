@@ -32,7 +32,7 @@ google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable
 colors:
   white:        '#eaeaea'
   intro:        '#428bca'
-  pastelorange:   '#ed7950'
+  events:       '#ed7950'
   saturday-one: '#66b266'
   monday:       '#5ea06e'
   tuesday:      '#578e77'
