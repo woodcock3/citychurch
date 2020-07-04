@@ -36,7 +36,7 @@ icon: cesium.png
       {% highlight haskell %}
 Google map to go here
       {% endhighlight %}
-      <a class="challenge-apply waves-effect waves-light btn bg-white" href="https://goo.gl/maps/4kcnTLjt1V7ZkiCK6" target="blank">Find us on google maps.</a>
+      <a class="map-apply waves-effect waves-light btn bg-white" href="https://goo.gl/maps/4kcnTLjt1V7ZkiCK6" target="blank">Find us on google maps.</a>
     </div>
   </li>
 </ul>
