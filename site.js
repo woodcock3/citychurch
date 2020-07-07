@@ -96,9 +96,6 @@ $(document).ready(function (){
 
   // Accordion
   $('.collapsible').collapsible();
-	
-  // Swipable tabs
-  $('.tabs').tabs();
 
   // Carrousel settings
   $(document).ready(function(){
