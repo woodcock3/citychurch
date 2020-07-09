@@ -1,9 +1,6 @@
 ---
+layout: mainpage
 ---
-{% include header.html %}
-
-    {% include main-navigation.html %}
-
 
     {% for page in site.posts reversed %}
       {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
@@ -32,6 +29,3 @@
         </div>
       </div>
     {% endfor %}
-
-
-    {% include footer.html %}
