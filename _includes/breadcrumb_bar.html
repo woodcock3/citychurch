@@ -1,13 +1,13 @@
 <nav>
   <div class="nav-wrapper">
-    <div class="col s12">
+    <div class="col s12 center-align">
       {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
       <a href="/">Home</a>
       {% for crumb in crumbs offset: 1 %}
         {% if forloop.last %}
-          > {{ page.title }}
+          > {{ page.title | upcase }}
         {% else %}
-          > <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' | upcase }} class="breadcrumb"</a>
+          > <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }} class="breadcrumb"</a>
         {% endif %}
       {% endfor %}
     </div>
