@@ -1,17 +1,17 @@
-{% include header.html %}
+---
+layout: headfoot
+---
 
-  {% include navpagebar.html %}
+{% include navpagebar.html %}
 
-  <article>
+<article>
 
-      <div id="{{id}}" class="section p-{{id}}">
-          <h5 class="icon-title">{{ page.title }}</h5>
+    <div id="{{id}}" class="section p-{{id}}">
+        <h5 class="icon-title">{{ page.title }}</h5>
        
-        <div class="container {{ page.style }}">
-          {{ page.content }}
-        </div>
+      <div class="container {{ page.style }}">
+        {{ page.content }}
       </div>
+    </div>
         
-  </article>
-
-  {% include footer.html %}
+</article>
