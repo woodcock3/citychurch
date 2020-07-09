@@ -2,7 +2,7 @@
 title: "Accessibility statement"
 layout: default
 bg: cityblue
-style: centre
+style: center
 permalink: /accessibility/
 ---
 
