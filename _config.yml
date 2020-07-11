@@ -65,6 +65,7 @@ kramdown:
 
 collections:
   staff:
+    output: true
     permalink: /:collection
   
 
