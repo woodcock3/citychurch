@@ -2,7 +2,7 @@
 layout: mainpage
 ---
 
-    {% for page in site.staff reversed %}
+    {% for staff_collection in site.staff reversed %}
       {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
       <div id="{{id}}" class="section p-{{id}}">
         {% if page.icon %}
