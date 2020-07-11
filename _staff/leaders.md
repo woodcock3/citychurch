@@ -1,6 +1,6 @@
 ---
 title: Leader
-layout: pages
+layout: xtrapage
 permalink: /leaders/
 ---
 
