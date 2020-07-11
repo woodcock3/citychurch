@@ -1,6 +1,9 @@
 ---
-layout: mainpage
+layout: headfoot
 ---
+
+{% include collectionnav.html %}
+
 
     {% for staff_collection in site.staff reversed %}
       {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
