@@ -2,7 +2,6 @@
 title: "Sermons"
 bg: cityblue
 color: white
-number: 3
 fa-icon: video
 ---
 
