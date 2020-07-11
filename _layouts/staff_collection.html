@@ -2,10 +2,10 @@
 layout: headfoot
 ---
 
-{% include collectionnav.html reversed %}
+{% include collectionnav.html %}
 
 
-    {% for staff in site.staff %}
+    {% for staff in site.staff reversed %}
       {% capture name %}{{ page.name | downcase }}{% endcapture %}
       <div id="{{page.name}}" class="section p-{{page.name}}">
         {% if page.icon %}
