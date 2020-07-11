@@ -4,7 +4,7 @@ layout: staff_collection
 bg: cityblue
 color: white
 style: center
-fa icon: bullhorn
+fa-icon: bullhorn
 ---
 
 # This is the elders page
