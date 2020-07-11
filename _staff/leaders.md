@@ -4,8 +4,7 @@ layout: staff_collection
 bg: cityblue
 color: white
 style: center
-fa icon: bullhorn
-permalink: /leaders/
+fa-icon: bullhorn
 ---
 
 # This is the leader page
