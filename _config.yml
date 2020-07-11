@@ -65,7 +65,7 @@ kramdown:
 
 collections:
   staff:
-    permalink: /:collection
+    permalink: /:collections
   
 
 sass:
