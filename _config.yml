@@ -63,5 +63,10 @@ colors:
 kramdown:
   auto_ids:  false
 
+collections:
+  staff:
+    output: true
+  
+
 sass:
   sass_dir: stylesheets/_sass/
