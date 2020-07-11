@@ -4,6 +4,7 @@ layout: staff_collection
 bg: cityblue
 color: white
 style: center
+number: 1
 fa-icon: bullhorn
 ---
 
