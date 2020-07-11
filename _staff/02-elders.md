@@ -2,7 +2,6 @@
 title: "elders"
 bg: cityblue
 color: white
-number: 2
 fa-icon: bullhorn
 ---
 
