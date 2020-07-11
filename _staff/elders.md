@@ -1,13 +1,11 @@
 ---
 title: "elders"
-layout: staff_collection
 bg: cityblue
 color: white
-style: center
 fa-icon: bullhorn
 ---
 
-# This is the elders page
+# This is the elders page hjhjhjhjh
 
 - Michael L
 - David Lovell
