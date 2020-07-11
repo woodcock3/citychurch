@@ -8,12 +8,12 @@ layout: headfoot
     {% for staff_collection in site.staff reversed %}
       {% capture id %}{{ page.name | remove:'/' | downcase }}{% endcapture %}
       <div id="{{page.name}}" class="section p-{{page.name}}">
-        {% if staff.icon %}
+        {% if page.icon %}
         <div class="subtlecircle sectiondivider">
           <span class="fa-stack">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa-stack-1x icon">
-              <img src="img/{{staff.icon}}" alt="section icon" />
+              <img src="img/{{page.icon}}" alt="section icon" />
             </i>
           </span>
           <h5 class="icon-title">{{ page.title }}</h5>
@@ -22,13 +22,14 @@ layout: headfoot
         <div class="subtlecircle sectiondivider faicon">
           <span class="fa-stack">
             <i class="fa fa-circle fa-stack-2x"></i>
-            <i class="fa fa-{{ staff.fa-icon }} fa-stack-1x"></i>
+            <i class="fa fa-{{ page.fa-icon }} fa-stack-1x"></i>
           </span>
           <h5 class="icon-title">{{ page.title }}</h5>
         </div>
         {% endif %}
-        <div class="container {{ staff.style }}">
-          {{ staff.content }}
+        <div class="container {{ page.style }}">
+          {{ page.content }}
+            {{page.name}}
         </div>
       </div>
     {% endfor %}
