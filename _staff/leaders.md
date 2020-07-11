@@ -1,5 +1,5 @@
 ---
-title: Leader
+title: "leader"
 layout: staff_collection
 bg: cityblue
 color: white
