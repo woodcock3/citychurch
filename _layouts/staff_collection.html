@@ -6,7 +6,7 @@ layout: headfoot
 
 
     {% for page in site.staff %}
-      {% capture name %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
+      {% capture name %}{{ page.title | downcase }}{% endcapture %}
       <div id="{{id}}" class="section p-{{id}}">
         {% if page.icon %}
         <div class="subtlecircle sectiondivider">
