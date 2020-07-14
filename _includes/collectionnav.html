@@ -2,7 +2,7 @@
   <div class="nav-wrapper">
     <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="left fa fa-bars fa-2x"></i></a>
     <ul class="hide-on-med-and-down">
-    {% for node in site.staff reversed %}
+    {% for node in site.staff %}
       {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
       <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
     {% endfor %}
@@ -11,7 +11,7 @@
 </nav>
     
 <ul class="sidenav" id="mobile-demo">
-{% for node in site.staff reversed %}
+{% for node in site.staff %}
   {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
   <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
 {% endfor %}
