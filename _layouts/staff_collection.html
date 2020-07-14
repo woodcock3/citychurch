@@ -6,8 +6,8 @@ layout: headfoot
 
 
     {% for staff in site.staff reversed %}
-      {% capture name %}{{ page.name | downcase }}{% endcapture %}
-      <div id="{{page.name}}" class="section p-{{page.name}}">
+      {% capture name %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
+      <div id="{{id}}" class="section p-{{id}}">
         {% if page.icon %}
         <div class="subtlecircle sectiondivider">
           <span class="fa-stack">
