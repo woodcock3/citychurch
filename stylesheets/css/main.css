@@ -19,8 +19,8 @@ html { box-sizing: border-box; }
 
 /* ----- per-post colors! ----- */
 {% for collection in site.collections %}
-  {% assign name = collection.label %}
-    {% for node in site.[name] %}
+  {% assign coll_name = collection.label %}
+    {% for node in site.{{coll_name}} %}
       {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
       {% capture bg %}{% if site.colors[node.bg] %}{{ site.colors[node.bg] }}{% else %}{{ node.bg }}{% endif %}{% endcapture %}
       {% capture fg %}{% if site.colors[node.color] %}{{ site.colors[node.color] }}{% else %}{{ node.color }}{% endif %}{% endcapture %}
