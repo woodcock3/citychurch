@@ -7,18 +7,17 @@ layout: headfoot
 
 <article>
     
-  <div class="container {{ page.style }}">
+  <div id="{{id}}" class="section p-{{id}}">
+    <div class="sectiondivider">
+      <h1 class="icon-title">{{ page.title }}</h1>
+    </div>
+        
+    <div class="container {{ page.style }}">
       {{ page.content }}
+    </div>
   </div>
+
          
 </article>
 
-      <div id="{{id}}" class="section p-{{id}}">
-        <div class="subtlecircle sectiondivider">
-          <h1 class="icon-title">{{ page.title }}</h1>
-        </div>
-        
-        <div class="container {{ page.style }}">
-          {{ page.content }}
-        </div>
-      </div>
+      
