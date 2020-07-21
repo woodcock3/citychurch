@@ -17,7 +17,7 @@ html { box-sizing: border-box; }
 .bg-{{c[0]}}     { background-color: {{ c[1] }} !important; }
 {% endfor %}
 
-/* ----- per-post colors! ----- */
+/* ----- per-post/collection colors! ----- */
 {% for node in site.documents %}
   {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
   {% capture bg %}{% if site.colors[node.bg] %}{{ site.colors[node.bg] }}{% else %}{{ node.bg }}{% endif %}{% endcapture %}
@@ -29,6 +29,17 @@ html { box-sizing: border-box; }
   #{{id}} .sectiondivider { color: {{ bg }}; }
   #main #{{id}} .activity { border-color: {{ fg2 }} }
   #main #{{id}} .section-lines { border-color: {{ fg2 }} }
+{% endfor %}
+
+
+/* ----- per-page colors! ----- */
+{% for node in site.pages %}
+  {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
+  {% capture bg %}{% if site.colors[node.bg] %}{{ site.colors[node.bg] }}{% else %}{{ node.bg }}{% endif %}{% endcapture %}
+  {% capture fg %}{% if site.colors[node.color] %}{{ site.colors[node.color] }}{% else %}{{ node.color }}{% endif %}{% endcapture %}
+  nav .p-{{id}} { border-color: {{ bg }}; }
+  #{{id}} { background-color: {{ bg }} !important; color: {{ fg }}; }
+  #{{id}} a { color: {{ fg }}; }
 {% endfor %}
 
 
