@@ -1,6 +1,6 @@
 ---
 title: "Safeguarding Policy"
-layout: xtrapage
+layout: default
 bg: cityblue
 color: white
 style: center
