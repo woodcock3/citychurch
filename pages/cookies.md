@@ -7,7 +7,7 @@ style: centre
 permalink: /cookies/
 ---
 
-## Cookies
+# Cookies
 
 blah blah blah
 
