@@ -3,7 +3,6 @@ title: "Vision and beliefs"
 layout: default
 bg: cityblue
 color: white
-style: center
 permalink: /vision/
 ---
 
