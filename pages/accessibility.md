@@ -3,7 +3,6 @@ title: "Accessibility statement"
 layout: default
 colour: white
 bg: cityblue
-style: center
 permalink: /accessibility/
 ---
 
