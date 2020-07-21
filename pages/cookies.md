@@ -3,7 +3,6 @@ title: Cookies
 layout: default
 bg: cityblue
 color: white
-style: centre
 permalink: /cookies/
 ---
 
