@@ -1,6 +1,6 @@
 ---
 title: Cookies
-layout: xtrapage
+layout: default
 bg: cityblue
 color: white
 style: centre
