@@ -1,6 +1,6 @@
 ---
 title: "Vision and beliefs"
-layout: xtrapage
+layout: default
 bg: cityblue
 color: white
 style: center
