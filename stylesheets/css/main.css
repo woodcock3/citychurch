@@ -38,7 +38,7 @@ html { box-sizing: border-box; }
   {% capture bg %}{% if site.colors[node.bg] %}{{ site.colors[node.bg] }}{% else %}{{ node.bg }}{% endif %}{% endcapture %}
   {% capture fg %}{% if site.colors[node.color] %}{{ site.colors[node.color] }}{% else %}{{ node.color }}{% endif %}{% endcapture %}
   nav .p-{{id}} { border-color: {{ bg }}; }
-  .page-colors { background-color: {{ bg }} !important; color: {{ fg }}; padding-bottom: 25px; }
+  .page-colors { background-color: {{ bg }} !important; color: {{ fg }}; padding-top: 25px; padding-bottom: 25px; }
   .page-colors a { color: {{ fg }}; }
 {% endfor %}
 
