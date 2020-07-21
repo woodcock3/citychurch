@@ -7,7 +7,7 @@ style: center
 permalink: /accessibility/
 ---
 
-## Accessibility statement
+# Accessibility statement
 
 We at City Evangelical Church want to make our websites accessible and as simple as possible to understand. We want everyone to be able to use this website.
 
@@ -21,7 +21,7 @@ This means you should be able to:
 - listen to most of the website using a screen reader
 
 
-# Our accessibility issues:
+## Our accessibility issues:
 
 We know some parts of this website aren’t fully accessible, for example:
 
@@ -33,7 +33,7 @@ We know some parts of this website aren’t fully accessible, for example:
 If you have an accessibility issue, please let us know so that we can work on resolving it by emailing us: office@cecleeds.co.uk.
 We’ll consider your request and get back to you in. Please note, the technical aspects of our website are managed by volunteers.
 
-# Technical information about this website’s accessibility
+## Technical information about this website’s accessibility
 
 This website is partially compliant with the Web Content Accessibility Guidelines version 2.1 AA standard, due to the non-compliances listed below.
 
@@ -45,7 +45,7 @@ The content listed below is non-accessible for the following reasons.
 - 
 - 
 
-# How we tested this website
+## How we tested this website
 
 This website was last tested on ........... Not tested yet!
 We use ... to test our website.
