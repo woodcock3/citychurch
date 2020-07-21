@@ -12,3 +12,5 @@ permalink: /cookies/
 blah blah blah
 
 This is under construction
+
+{{ site.html_pages }}
