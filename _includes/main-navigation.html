@@ -1,13 +1,12 @@
 <nav>
   <div class="nav-wrapper">
     <a href="#!" class="brand-logo">Logo</a>
-    <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="left fa fa-bars fa-2x"></i>MENU</a>
+    <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="left fa fa-bars fa-2x"> MENU</i></a>
     <ul class="hide-on-med-and-down">
     {% for node in site.posts reversed %}
       {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
       <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
     {% endfor %}
-      <li><a href="/search/"><i class=""fa fa-search"></i>Link with Left Icon</a></li>
     </ul>
   </div>
 </nav>
