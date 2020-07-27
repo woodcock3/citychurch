@@ -1,9 +1,14 @@
 <nav>
   <div class="nav-wrapper">
-    <div class="valign-wrapper">
-      <a href="#!" class="brand-logo">Logo</a>
-    </div>
+    <a href="#!" class="brand-logo">Logo</a>
     <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="left fa fa-bars fa-2x"></i></a>
+    <form>
+        <div class="input-field">
+          <input id="search" type="search" required>
+          <label class="label-icon" for="search"><i class="fa fa-search"></i></label>
+          <i class="material-icons">close</i>
+        </div>
+      </form>
     <ul class="hide-on-med-and-down">
     {% for node in site.posts reversed %}
       {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
