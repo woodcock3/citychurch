@@ -1,24 +1,25 @@
 <nav>
   <div class="nav-wrapper">
     <a href="#!" class="brand-logo">Logo</a>
-    <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="left fa fa-bars fa-2x">MENU</i></a>
-    <form>
-        <div class="input-field">
-          <input id="search" type="search" required>
-          <label class="label-icon" for="search"><i class="right fa fa-search"></i></label>
-          <i class="fa fa-times"></i>
-        </div>
-      </form>
+    <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="left fa fa-bars fa-2x"></i>MENU</a>
     <ul class="hide-on-med-and-down">
     {% for node in site.posts reversed %}
       {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
       <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
     {% endfor %}
+      <li><a href="/search/"><i class=""fa fa-search"></i>Link with Left Icon</a></li>
     </ul>
   </div>
 </nav>
     
 <ul class="sidenav" id="mobile-demo">
+  <form>
+    <div class="input-field">
+      <input id="search" type="search" required>
+      <label class="label-icon" for="search"><i class="fa fa-search"> search</i></label>
+      <i class="material-icons">close</i>
+    </div>
+  </form>
 {% for node in site.posts reversed %}
   {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
   <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
