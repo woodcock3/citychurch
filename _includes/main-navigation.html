@@ -13,13 +13,8 @@
     
 <ul class="sidenav" id="mobile-demo">
   <li><a href="{{ 'search.html' | relative_url }}"><i class="fa fa-search"> search</i></a></li>
-  <form>
-    <div class="input-field">
-      {% include search-lunr.html %}
-    </div>
-  </form>
-{% for node in site.posts reversed %}
-  {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
-  <li class="p-{{id}}"><a class="sidenav-close" href="#{{id}}">{{node.title}}</a></li>
-{% endfor %}
+  {% for node in site.posts reversed %}
+    {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
+    <li class="p-{{id}}"><a class="sidenav-close" href="#{{id}}">{{node.title}}</a></li>
+  {% endfor %}
 </ul>
