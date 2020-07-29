@@ -1,8 +1,8 @@
 ---
 title: Search
 layout: default
-bg: cityblue
-color: white
+bg: white
+color: black
 permalink: /search/
 ---
 
