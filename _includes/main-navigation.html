@@ -14,9 +14,7 @@
 <ul class="sidenav" id="mobile-demo">
   <form>
     <div class="input-field">
-      <input id="search" type="search" required>
-      <label class="label-icon" for="search"><i class="fa fa-search"> search</i></label>
-      <i class="fa fa-times"> close</i>
+      {% include search-lunr.html %}
     </div>
   </form>
 {% for node in site.posts reversed %}
