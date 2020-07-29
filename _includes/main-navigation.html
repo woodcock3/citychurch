@@ -1,7 +1,7 @@
 <nav>
   <div class="nav-wrapper">
     <a href="#!" class="brand-logo">Logo</a>
-    <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="left fa fa-bars fa-lg"> MENU</i></a>
+    <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="right fa fa-bars fa-lg"> MENU</i></a>
     <ul class="right hide-on-med-and-down">
     {% for node in site.posts reversed %}
       {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
