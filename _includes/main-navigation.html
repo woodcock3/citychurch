@@ -12,7 +12,6 @@
 </nav>
     
 <ul class="sidenav" id="mobile-demo">
-  {% include search-lunr.html %}
   {% for node in site.posts reversed %}
     {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
     <li class="p-{{id}}"><a class="sidenav-close" href="#{{id}}">{{node.title}}</a></li>
