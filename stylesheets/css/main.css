@@ -34,10 +34,12 @@ html { box-sizing: border-box; }
 
 /* ----- per-html page colors! ----- */
 {% for node in site.html_pages %}
-  {% capture bg %}{% if site.colors[node.bg] %}{{ site.colors[node.bg] }}{% else %}{{ node.bg }}{% endif %}{% endcapture %}
-  {% capture fg %}{% if site.colors[node.color] %}{{ site.colors[node.color] }}{% else %}{{ node.color }}{% endif %}{% endcapture %}
-  .page-colors { background-color: {{ bg }} !important; color: {{ fg }}; padding-top: 65px; padding-bottom: 25px; }
-  .page-colors a { color: {{ fg }}; }
+  {% if pages.layout == 'default' %}
+    {% capture bg %}{% if site.colors[node.bg] %}{{ site.colors[node.bg] }}{% else %}{{ node.bg }}{% endif %}{% endcapture %}
+    {% capture fg %}{% if site.colors[node.color] %}{{ site.colors[node.color] }}{% else %}{{ node.color }}{% endif %}{% endcapture %}
+    .page-colors { background-color: {{ bg }} !important; color: {{ fg }}; padding-top: 65px; padding-bottom: 25px; }
+    .page-colors a { color: {{ fg }}; }
+  {% end if %}
 {% endfor %}
 
 
