@@ -5,11 +5,11 @@ layout: headfoot
 {% include breadcrumb_bar.html %}
    
 <div class="page-colors">    
-   <div class="container {{ page.style }}">
+   <div class="container {{ page.style }} {{ page.bgcolor }}">
 
      <article>
        
-       <div class="page-content">
+       <div class="page-content {{ page.textcolor }}">
          {{ content }}
        </div>
              
