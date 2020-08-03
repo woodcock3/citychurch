@@ -32,7 +32,7 @@ html { box-sizing: border-box; }
 {% endfor %}
 
 
-/* ----- per-html page colors in the pages folder! ----- */
+/* ----- per-html page padding with default layout! ----- */
 {% for pages in site.html_pages %}
   .page-colors { padding-top: 65px; padding-bottom: 25px; }
 {% endfor %}
