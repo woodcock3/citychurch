@@ -1,7 +1,7 @@
 ---
 title: Cookies
 layout: default
-bg: cityblue
+bg: cityorange
 color: white
 permalink: /cookies/
 ---
