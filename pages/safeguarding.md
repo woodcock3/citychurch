@@ -1,7 +1,7 @@
 ---
 title: "Safeguarding Policy"
 layout: default
-bg: cityblue
+bg: black
 color: white
 permalink: /safeguarding/
 ---
