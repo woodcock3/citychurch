@@ -35,6 +35,7 @@ html { box-sizing: border-box; }
 /* ----- per-html page colors in the pages folder! ----- */
 {% for pages in site.html_pages %}
   {% if pages.layout == 'default' %}
+    {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
     {% capture bg %}{% if site.colors[pages.bg] %}{{ site.colors[pages.bg] }}{% else %}{{ pages.bg }}{% endif %}{% endcapture %}
     {% capture fg %}{% if site.colors[pages.color] %}{{ site.colors[pages.color] }}{% else %}{{ pages.color }}{% endif %}{% endcapture %}
     .page-colors { background-color: {{ bg }} !important; color: {{ fg }}; padding-top: 65px; padding-bottom: 25px; }
