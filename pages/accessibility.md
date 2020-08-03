@@ -1,7 +1,7 @@
 ---
 title: "Accessibility statement"
 layout: default
-textcolor: white
+textcolor: white-text
 bgcolor: blue darken-4
 permalink: /accessibility/
 ---
