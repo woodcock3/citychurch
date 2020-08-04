@@ -2,7 +2,7 @@
   <div class="col s12 m6 feature">
     <h4> Pages </h4>
     <p class="feature-description"><a href="/privacy">Privacy</a> | <a href="/accessibility">Accessibility</a> | <a href="/cookies">Cookies</a></p>
-    <p class="feature-description"><a href="/vision">Vision and beliefs</a> | <a href="/safeguarding">Safeguarding</a></p>
+    <p class="feature-description"><a href="/we-believe">Our beliefs</a> | <a href="/safeguarding">Safeguarding</a></p>
   </div>
   <div class="col s12 m6 feature">
     <h4> Credits </h4>
