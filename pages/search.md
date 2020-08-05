@@ -16,5 +16,4 @@ permalink: /search/
 Please search for what you are looking for below.
 
 
-
- 
+{% include search-lunr.html %}
