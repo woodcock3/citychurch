@@ -8,7 +8,7 @@ permalink: /search/
 
 # Search
 
-<i class="fa fa-search fa-5x" aria-hidden="true" style="color:blue-grey-text text-lighten-5"></i>
+<i class="center-align fa fa-search fa-5x" aria-hidden="true" style="color:blue-grey-text text-lighten-5"></i>
 
 
 ## Seek and you shall find; knock and the door shall be opened to you
