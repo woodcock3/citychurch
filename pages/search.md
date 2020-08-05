@@ -1,13 +1,18 @@
 ---
 title: Search
 layout: default
-bg: white
-color: black
+bgcolor: orange
+textcolor: blue-grey-text text-lighten-5
 permalink: /search/
 ---
 
 # Search
 
-blah blah blah
+<i class="fa fa-search fa-5x"</i>
 
-This is under construction
+
+## Seek and you shall find; knock and the door shall be opened to you
+
+Please search for what you are looking for below.
+
+ 
