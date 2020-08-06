@@ -96,6 +96,9 @@ $(document).ready(function (){
 
   // Accordion
   $('.collapsible').collapsible();
+	
+  // Form components
+  $('select').formSelect();
 
   // Carrousel settings
   $(document).ready(function(){
