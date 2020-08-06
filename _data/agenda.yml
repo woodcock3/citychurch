@@ -42,7 +42,7 @@ tuesday:
     text: As tradicionais Braga Geek Nights estão de volta! Vamos criar o ambiente ideal para te divertires. Vem ter connosco para um serão de informática e convívio.
 
 wednesday:
-  - title: "Elixir: A Talk for College Students"
+  - title: "Last weeks recorded church service"
     time: 14h-16h
     place: DI A1
     image: elixir.png
@@ -50,12 +50,12 @@ wednesday:
     text: Elixir é uma das linguagens do momento! Escalável, funcional e tolerante a falhas. Connosco terás uma palestra preparada para ti, com várias comparações com linguagens mais conhecidas.
     presentation: https://speakerdeck.com/frmendes/elixir-a-talk-for-college-students
 
-  - title: JavaScript
+  - title: Recent services and devotions
     time: 16h-18h
     place: DI A1
     image: javascript.png
-    typeform: https://cesium.typeform.com/to/qPxrdE
-    text: JavaScript é uma das linguagens em maior desenvolvimento, com várias frameworks a surgir! Junta-te a <a target="_blank" href="https://github.com/pfac">Pedro Costa</a> para aprenderes os básicos desta linguagem essencial para o desenvolvimento web.
+    typeform: https://youtu.be/pc4Adade4Bg
+    text: On our YouTube channel there are recorded services and devotions from throughout the 2020 covid lockdown.
 
 thursday:
   - title: Ionic
