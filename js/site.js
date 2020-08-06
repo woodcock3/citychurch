@@ -99,6 +99,8 @@ $(document).ready(function (){
 	
   // Form components
   $('select').formSelect();
+  $('.datepicker').datepicker();
+  M.updateTextFields();
 
   // Carrousel settings
   $(document).ready(function(){
