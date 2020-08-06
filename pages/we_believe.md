@@ -2,7 +2,7 @@
 title: "What we believe"
 layout: default
 bgcolor: blue darken-4
-textcolor: white
+textcolor: blue-grey-text text-lighten-5
 permalink: /we-believe/
 ---
 
