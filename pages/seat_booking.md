@@ -8,9 +8,11 @@ permalink: /seat-booking/
 
 # Book a seat at church
 
+<input type="text" class="datepicker">
+
 <div class="input-field col s12">
     <select>
-      <option value="" disabled selected>Number of people from your household/bubble comming to church</option>
+      <option value="" disabled selected>Select no. of people</option>
       <option value="1">1</option>
       <option value="2">2</option>
       <option value="3">3</option>
@@ -22,6 +24,6 @@ permalink: /seat-booking/
       <option value="9">9</option>
       <option value="10">10</option>
     </select>
-    <label>Materialize Select</label>
+    <label>Number of people from your household/bubble comming to church</label>
   </div>
 
