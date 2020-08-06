@@ -27,3 +27,81 @@ permalink: /seat-booking/
     <label>Number of people from your household/bubble comming to church</label>
   </div>
 
+<div class="row">
+    <form class="col s12">
+      <div class="row">
+        <div class="input-field col s12 m4">
+          <input id="icon_prefix" type="text" class="validate">
+          <label for="icon_prefix">First Name</label>
+        </div>
+        <div class="input-field col s12 m4">
+          <input id="icon_prefix" type="text" class="validate">
+          <label for="icon_prefix">Surname</label>
+        </div>
+        <div class="input-field col s12 m4">
+          <input id="icon_telephone" type="tel" class="validate">
+          <label for="icon_telephone">Telephone</label>
+        </div>
+      </div>
+    </form>
+  </div>
+  
+  
+  <div class="row">
+    <form class="col s12">
+      <div class="row">
+        <div class="input-field col s12 m4">
+          <input id="icon_prefix" type="text" class="validate">
+          <label for="icon_prefix">First Name</label>
+        </div>
+        <div class="input-field col s12 m4">
+          <input id="icon_prefix" type="text" class="validate">
+          <label for="icon_prefix">Surname</label>
+        </div>
+        <div class="input-field col s12 m4">
+          <input id="icon_telephone" type="tel" class="validate">
+          <label for="icon_telephone">Telephone</label>
+        </div>
+      </div>
+    </form>
+  </div>
+  
+  
+  <div class="row">
+    <form class="col s12">
+      <div class="row">
+        <div class="input-field col s12 m4">
+          <input id="icon_prefix" type="text" class="validate">
+          <label for="icon_prefix">First Name</label>
+        </div>
+        <div class="input-field col s12 m4">
+          <input id="icon_prefix" type="text" class="validate">
+          <label for="icon_prefix">Surname</label>
+        </div>
+        <div class="input-field col s12 m4">
+          <input id="icon_telephone" type="tel" class="validate">
+          <label for="icon_telephone">Telephone</label>
+        </div>
+      </div>
+    </form>
+  </div>
+  
+  
+  <div class="row">
+    <form class="col s12">
+      <div class="row">
+        <div class="input-field col s12 m4">
+          <input id="icon_prefix" type="text" class="validate">
+          <label for="icon_prefix">First Name</label>
+        </div>
+        <div class="input-field col s12 m4">
+          <input id="icon_prefix" type="text" class="validate">
+          <label for="icon_prefix">Surname</label>
+        </div>
+        <div class="input-field col s12 m4">
+          <input id="icon_telephone" type="tel" class="validate">
+          <label for="icon_telephone">Telephone</label>
+        </div>
+      </div>
+    </form>
+  </div>
