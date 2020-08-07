@@ -10,7 +10,7 @@ permalink: /seat-booking/
 
 ## This form will email church on submission
 <div class="row">
-  <form action="mailto:woodcock3@gmail.com" class="col s12" method="POST" enctype="multipart/form-data" name="EmailTestForm">
+  <form action="https://formspree.io/woodcock3@gmail.com" class="col s12" form method="POST" enctype="multipart/form-data" name="EmailTestForm">
     <div class="row">
       <div class="input-field col s12 m6 offset-3">
         <input type="text" class="datepicker">
