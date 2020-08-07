@@ -117,3 +117,7 @@ permalink: /seat-booking/
     </div>
   </form>
 </div>
+
+<button class="btn-large waves-effect waves-light" type="submit" name="action">Submit
+  <i class="material-icons right">send</i>
+</button>
