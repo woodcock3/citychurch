@@ -8,7 +8,7 @@ permalink: /seat-booking/
 
 # Book a seat at church
 
-## Date
+## This form will email church on submission
 <div class="row">
   <form action="mailto:woodcock3@gmail.com" class="col s12" method="POST" enctype="multipart/form-data" name="EmailTestForm">
     <div class="row">
