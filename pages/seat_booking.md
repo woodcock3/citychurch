@@ -37,6 +37,27 @@ permalink: /seat-booking/
   </form>
 </div>
 
+<form action="#">
+  <p>
+    <label>
+      <input name="group1" type="radio" checked />
+      <span>Prefer ground floor seat(s)</span>
+    </label>
+  </p>
+  <p>
+    <label>
+      <input name="group1" type="radio" />
+      <span>Prefer balcony seat(s)</span>
+    </label>
+  </p>
+  <p>
+    <label>
+      <input class="with-gap" name="group1" type="radio"  />
+      <span>No preference</span>
+    </label>
+  </p>
+</form>
+
 <div class="row">
   <form class="col s12">
     <div class="row">
