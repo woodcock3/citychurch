@@ -8,6 +8,7 @@ permalink: /seat-booking/
 
 # Book a seat at church
 
+## Date
 <div class="row">
   <form class="col s12">
     <div class="row">
@@ -37,27 +38,29 @@ permalink: /seat-booking/
   </form>
 </div>
 
+## Seating area
 <form action="#">
   <p>
     <label>
-      <input name="group1" type="radio" checked />
+      <input class="with-gap" name="seat-type" type="radio" checked />
       <span>Prefer ground floor seat(s)</span>
     </label>
   </p>
   <p>
     <label>
-      <input name="group1" type="radio" />
+      <input class="with-gap" name="seat-type" type="radio" />
       <span>Prefer balcony seat(s)</span>
     </label>
   </p>
   <p>
     <label>
-      <input class="with-gap" name="group1" type="radio"  />
+      <input class="with-gap" name="seat-type" type="radio"  />
       <span>No preference</span>
     </label>
   </p>
 </form>
 
+## Names
 <div class="row">
   <form class="col s12">
     <div class="row">
