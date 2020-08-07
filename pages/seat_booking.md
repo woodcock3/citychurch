@@ -15,9 +15,7 @@ permalink: /seat-booking/
         <input type="text" class="datepicker">
         <label> Date attending church service</label>
       </div>
-      <div class="input-field col s12 m6">
-        <input type="text" class="datepicker">
-        <label> Date attending church service</label>
+      <div class="input-field col s12 m6"> 
         <div class="input-field">
           <select>
             <option value="" disabled selected>Select no. of people</option>
