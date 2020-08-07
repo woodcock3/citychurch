@@ -101,8 +101,6 @@ $(document).ready(function (){
   $('select').formSelect();
   $('.datepicker').datepicker();
   M.updateTextFields();
-  $('input#icon_prefix').formSelect();
-  });
 
   // Carrousel settings
   $(document).ready(function(){
