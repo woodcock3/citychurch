@@ -1,5 +1,5 @@
 ---
-title: "Accessibility statement"
+title: "Book a seat"
 layout: default
 textcolor: blue-grey-text text-lighten-5
 bgcolor: blue darken-4
