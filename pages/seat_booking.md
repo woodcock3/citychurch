@@ -10,7 +10,7 @@ permalink: /seat-booking/
 
 ## Date
 <div class="row">
-  <form class="col s12">
+  <form action="mailto:woodcock3@gmail.com" class="col s12" method="POST" enctype="multipart/form-data" name="EmailTestForm">
     <div class="row">
       <div class="input-field col s12 m6 offset-3">
         <input type="text" class="datepicker">
@@ -115,9 +115,10 @@ permalink: /seat-booking/
         <label for="icon_telephone">Telephone</label>
       </div>
     </div>
+    <button class="btn-large waves-effect waves-light" type="submit" name="action">Submit
+    <i class="material-icons right">send</i>
+    </button>
   </form>
 </div>
 
-<button class="btn-large waves-effect waves-light" type="submit" name="action">Submit
-  <i class="material-icons right">send</i>
-</button>
+
