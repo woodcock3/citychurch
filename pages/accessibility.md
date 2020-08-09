@@ -11,7 +11,7 @@ permalink: /accessibility/
 We at City Evangelical Church want to make our websites accessible and as simple as possible to understand. We want everyone to be able to use this website.
 
 
-**Below is an example statement - this is currently test and a work in progress**
+**Below is an example statement - this is currently test and a work in progress** TEST
 This means you should be able to:
 
 - change line height, spacing between paragraphs and fonts
