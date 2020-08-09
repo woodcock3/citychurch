@@ -1,2 +1,2 @@
 source 'https://rubygems.org'
-gem "jekyll"
+/usr/bin/gem "jekyll"
