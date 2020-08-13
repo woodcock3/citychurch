@@ -39,7 +39,7 @@ Created a local Jekyll 4 build workflow that deploys to gh-pages. This was forke
 
 Deployment
 ==========
-I'm currently using [DeployHQ](https://www.deployhq.com) to build and deploy the site our our serve. They offer a generous free plan for open source projects. Check there FAQ because is not in the price page. 
+I'm currently using [DeployHQ](https://www.deployhq.com) to build and deploy the site our our server. They offer a generous free plan for open source projects. Check there FAQ because is not in the price page. 
 
 Video and mp3
 =============
