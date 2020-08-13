@@ -37,6 +37,9 @@ Jekyll Build
 ============
 Created a local Jekyll 4 build workflow that deploys to gh-pages. This was forked from [Josh Larsen](https://github.com/joshlarsen/jekyll4-deploy-gh-pages) github action called [Jekyll 4 Build & Deploy](https://github.com/marketplace/actions/jekyll-4-build-deploy)
 
+Deployment
+==========
+I'm currently using [DeployHQ](https://www.deployhq.com) to build and deploy the site our our serve. They offer a generous free plan for open source projects. Check there FAQ because is not in the price page. 
 
 Video and mp3
 =============
