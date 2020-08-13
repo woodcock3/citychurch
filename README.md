@@ -46,7 +46,7 @@ There are two ways to load a video you can embed the video in a the div below:
 <div class="icontain"><iframe title="The title of the video" src="//www.youtube-nocookie.com/embed/8SLeE2a6Q4" allowfullscreen></iframe></div>
 ~~~
 
-Or there is a script that will tranform a Youtube or Vimeo URL in the content (on a new line) into an embedded video. It also detects URL’s that point to mp3 files and replaces them with a default HTML5 player. This uses ([Jekyll Codex] (https://jekyllcodex.org/without-plugin/open-embed/)) script.
+Or there is a script that will tranform a Youtube or Vimeo URL in the content (on a new line) into an embedded video. It also detects URL’s that point to mp3 files and replaces them with a default HTML5 player. This uses ([Jekyll Codex](https://jekyllcodex.org/without-plugin/open-embed/)) script.
 
 E.g.
 
