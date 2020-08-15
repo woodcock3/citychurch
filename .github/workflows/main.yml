@@ -10,9 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: GitHub Checkout
-        uses: actions/checkout@v1
+        uses: actions/checkout@v2.1.0
       - name: Bundler Cache
-        uses: actions/cache@v1
+        uses: actions/cache@v2.1.0
         with:
           path: vendor/bundle
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
@@ -39,7 +39,7 @@ jobs:
 #      with:
 #        fetch-depth: 2
 #    - name: FTP-Deploy-Action
-#      uses: woodcock3/FTP-Deploy-Action@3.1.1
+#      uses: woodcock3/FTP-Deploy-Action
 #      with:
 #        ftp-server: ftp://ftp.cecleeds.co.uk
 #        ftp-username: ${{ secrets.FTP_USER }}
