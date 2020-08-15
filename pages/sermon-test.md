@@ -1,8 +1,8 @@
 ---
 title: "Sermons"
 layout: default
-bg: black
-color: white
+bgcolor: blue darken-4
+textcolor: blue-grey-text text-lighten-5
 permalink: /sermon-test.php/
 ---
 
