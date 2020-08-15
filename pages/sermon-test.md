@@ -9,4 +9,6 @@ permalink: /sermon-test/index.php
 ## Sermons
 
 
-{% raw %} <?php include(“./php/sermons/include.php”); ?> {% endraw %}
+<div>
+  {% raw %} <?php include(“./php/sermons/include.php”); ?> {% endraw %}
+</div>
