@@ -26,7 +26,7 @@ favicon_32:         "/img/favicon-32x32.png"
 touch_icon:         "/img/apple-touch-icon.png" ## City logo as apple touch icon
 safari_pinned_tab:  "/img/safari-pinned-tab.svg" ## put safari pinned tab svg icon here
 
-google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: UA-175591016-1 ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
