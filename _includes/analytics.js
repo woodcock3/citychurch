@@ -1,5 +1,4 @@
 {% if site.google_analytics_key %}
-<script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', '{{ site.google_analytics_key }}']);
@@ -13,5 +12,4 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script>
 {% endif %}
