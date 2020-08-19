@@ -8,7 +8,7 @@ permalink: /privacy/
 
 ## How we process your data
 
-This website is powered by Jekyll, DeploHQ, Forestry.io and is hosted on GitHub. Forestry.io is only used as an external CMS. DeployHQ is used to deploy the website to the church's server. No traffic or visitor data ends up at Forestry.io or DeployHQ or their partners. Github, however, (like any hosting company) can have full insight in visitor data, like connecting IP addresses, visited pages, etc. Note that Github is not known to actively profile visitors.
+This website is powered by Jekyll, DeployHQ, Forestry.io and is hosted on GitHub. Forestry.io is only used as an external CMS. DeployHQ is used to deploy the website to the church's server. No traffic or visitor data ends up at Forestry.io or DeployHQ or their partners. GitHub, however, (like any hosting company) can have full insight in visitor data, like connecting IP addresses, visited pages, etc. Note that GitHub is not known to actively profile visitors.
 
 ### Google Analytics
 
