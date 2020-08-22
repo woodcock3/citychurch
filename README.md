@@ -278,3 +278,8 @@ This site uses Font Awesome 4.7 icons. To reference an icon inline use:
 Markdown
 ========
 This site uses Kramdown, visit https://about.gitlab.com/blog/2016/07/19/markdown-kramdown-tips-and-tricks/#font-awesome for tips.
+
+
+PHP
+===
+We manageed to connect the website Jekyll site to a php include on our server. In order of the php include to work it must be referenced as a jekyll include and the section file type must be .html 
