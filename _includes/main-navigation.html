@@ -7,8 +7,7 @@
       {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
       <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
     {% endfor %}
-    <ul class="right hide-on-med-and-down">
-      <li><a href="/search/"><i class="fa fa-search fa-lg"></a></li>
+      <li><a href="/search/"><i class="fa fa-search fa-lg"></a></li>  
     </ul>
   </div>
 </nav>
