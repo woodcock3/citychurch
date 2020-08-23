@@ -97,6 +97,9 @@ $(document).ready(function (){
   // Accordion
   $('.collapsible').collapsible();
 	
+  // Dropdowns
+  $('.dropdown-trigger').dropdown();
+	
   // Form components
   $('select').formSelect();
   $('.datepicker').datepicker();
