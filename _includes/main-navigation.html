@@ -6,8 +6,8 @@
     {% for node in site.posts reversed %}
       {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
       <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
-    {% endfor %}
-      <li class="p-search"><a href="/search/"><i class="fa fa-search fa-lg"></a></li>  
+      <li class="p-search"><a href="/search/"><i class="fa fa-search fa-lg"></a></li>
+    {% endfor %}  
     </ul>
   </div>
 </nav>
@@ -16,6 +16,6 @@
   {% for node in site.posts reversed %}
     {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
     <li class="p-{{id}}"><a class="sidenav-close" href="#{{id}}">{{node.title}}</a></li>
-  {% endfor %}
     <li class="p-search"><a href="/search/"><i class="fa fa-search fa-lg"></a></li>
+  {% endfor %}
 </ul>
