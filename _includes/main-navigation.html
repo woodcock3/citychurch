@@ -1,9 +1,3 @@
-<ul id="dropdown1" class="dropdown-content">
-  <li><a href="#!">one</a></li>
-  <li><a href="#!">two</a></li>
-  <li class="divider"></li>
-  <li><a href="#!">three</a></li>
-</ul>
 <nav>
   <div class="nav-wrapper">
     <a href="/" class="brand-logo">{% include safari-pinned-tab.svg %}</a>
@@ -13,8 +7,6 @@
       {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
       <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
     {% endfor %}
-    <!-- Dropdown Trigger -->
-      <li><a class="dropdown-trigger btn" href="#!" data-target="dropdown1">MORE</a></li>
     </ul>
   </div>
 </nav>
