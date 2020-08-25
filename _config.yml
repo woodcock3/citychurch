@@ -67,8 +67,6 @@ collections:
   kids:
     output: true
     permalink: /kids/
-    layout: kids_collection
-  
 
 sass:
   sass_dir: stylesheets/_sass/
