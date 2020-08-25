@@ -64,9 +64,9 @@ kramdown:
   auto_ids:  false
 
 collections:
-  staff:
+  kids:
     output: true
-    permalink: /staff/
+    permalink: /kids/
   
 
 sass:
