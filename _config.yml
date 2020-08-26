@@ -43,6 +43,8 @@ colors:
   saturday-two: '#39479b'
   contacts:     '#3035A4'
   black:        '#2e2e2e'
+  ckyellow:     '#febd2e
+  ckblue:       '#01a8ff
   ## white:      '#f8f8f8'
   blue:       '#002edf'
   green:      '#63bd2f'
