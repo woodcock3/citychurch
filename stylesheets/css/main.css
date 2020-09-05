@@ -33,8 +33,7 @@ html { box-sizing: border-box; }
 
 
 /* ----- per-html page padding with default layout! ----- */
-{% assign default_pages = site.html_pages | where: "default" %} 
-{% for page in default_pages %}
+{% for page in site.html_pages | where: 'dir', '/pages/' %}
   .page-colors { padding-top: 65px; padding-bottom: 25px; }
 {% endfor %}
 
