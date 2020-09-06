@@ -32,11 +32,8 @@ html { box-sizing: border-box; }
 {% endfor %}
 
 
-/* ----- per-html page padding with default layout! ----- */
-{% assign default_pages = site.html_pages | where_exp: 'page','page.layout == default' %}
-{% for pg in default_pages %}
-  .page-colors { padding-top: 65px; padding-bottom: 25px; }
-{% endfor %}
+/* ----- html page padding with default layout! ----- */
+.page-colors { padding-top: 65px; padding-bottom:
 
 
 /* ----- code, syntax highlighting, etc ----- */
