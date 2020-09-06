@@ -67,6 +67,7 @@ kramdown:
 
 collections:
   posts:
+    output: false
     permalink: /:title
   kids:
     output: true
