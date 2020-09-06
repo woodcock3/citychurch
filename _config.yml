@@ -67,7 +67,7 @@ kramdown:
 
 collections:
   posts:
-    permalink: /
+    permalink: /:title
   kids:
     output: true
     permalink: /kids/
