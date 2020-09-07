@@ -7,9 +7,6 @@
       {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
       <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
     {% endfor %}
-    
-
-      <li><a href="/search/">SEARCH</a></li>
     </ul>
   </div>
 </nav>
@@ -19,4 +16,6 @@
     {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
     <li class="p-{{id}}"><a class="sidenav-close waves-effect" href="#{{id}}">{{node.title}}</a></li>
   {% endfor %}
+    <li><div class="divider"></div></li>
+    <li><a href="/search/">SEARCH</a></li>
 </ul>
