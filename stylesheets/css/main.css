@@ -115,19 +115,6 @@ hr {
   *display:inline;
 }
 
-/* Background image half page */
-.bgimage {
-  /* The image used */
-  background-image: url("{{ 'img/citykids/City_Kids_banner.png' | relative_url }}");
-  /* Full height */
-  height: 50%; 
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  z-index: 5;
-}
-
 /* ---------------------------*/
 /* ----- Main Structure ----- */
 /* ---------------------------*/
