@@ -115,7 +115,7 @@ hr {
   *display:inline;
 }
 
-.full-width {
+.divmax-width {
 	left: 50%;
 	margin-left: -50vw;
 	margin-right: -50vw;
