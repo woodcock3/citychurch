@@ -7,7 +7,7 @@ safe: false
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
-## permalink: /:title ## disables post output
+permalink: /:title ## disables post output
 baseurl: 
 timezone: null
 lsi: false
@@ -66,8 +66,6 @@ kramdown:
   auto_ids:  false
 
 collections:
-  posts:
-    permalink: /:title
   kids:
     output: true
     permalink: /kids/
