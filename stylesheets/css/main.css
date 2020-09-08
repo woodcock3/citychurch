@@ -115,6 +115,7 @@ hr {
   *display:inline;
 }
 
+/* Makes a div break out of container for full-width */
 .divmax-width {
 	left: 50%;
 	margin-left: -50vw;
