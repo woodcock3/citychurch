@@ -3,7 +3,7 @@
     <a href="/" class="brand-logo">{% include safari-pinned-tab.svg %}</a>
     <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="left fa fa-bars fa-lg"> MENU</i></a>
     <ul class="hide-on-med-and-down">
-    {% for node in site.kids %}
+    {% for node in webpage %}
       {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
       <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
     {% endfor %}
@@ -12,7 +12,7 @@
 </nav>
     
 <ul class="sidenav" id="mobile-demo">
-{% for node in site.kids %}
+{% for node in webpage %}
   {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
   <li class="p-{{id}}"><a class="sidenav-close" href="#{{id}}">{{node.title}}</a></li>
 {% endfor %}
