@@ -2,7 +2,7 @@
 layout: headfoot
 ---
 
-{% assign webpage = page.collectiontype %}
+{% assign webpage = page.collectiontype | liquify %}
 {% include collectionnav.html %}
 
     {% for page in webpage %}
