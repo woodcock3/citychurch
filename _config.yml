@@ -72,6 +72,3 @@ collections:
 
 sass:
   sass_dir: stylesheets/_sass/
-
-plugins:
-  - jekyll-liquify
