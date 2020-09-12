@@ -1,10 +1,9 @@
 ---
 layout: headfoot
 ---
-
+{% assign webpage = page.collectiontype %}
 {% include collectionnav.html %}
 
-    {% assign webpage = page.collectiontype %}
     {% for page in webpage %}
       {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
       <div id="{{id}}" class="section p-{{id}}">
