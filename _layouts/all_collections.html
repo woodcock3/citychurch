@@ -1,7 +1,11 @@
 ---
 layout: headfoot
 ---
-{% assign webpage = page.collectiontype %}
+
+{% capture webpage %}
+{{ page.collectiontype }}
+{% endcapture %}
+
 {% include collectionnav.html %}
 
     {% for page in webpage %}
