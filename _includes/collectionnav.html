@@ -1,7 +1,7 @@
 <nav>
   <div class="nav-wrapper">
     <a href="/" class="brand-logo">{% include safari-pinned-tab.svg %}</a>
-    <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="left fa fa-bars fa-2x"></i></a>
+    <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="left fa fa-bars fa-lg"> MENU</i></a>
     <ul class="hide-on-med-and-down">
     {% for node in site.kids %}
       {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
