@@ -6,4 +6,4 @@ textcolor: blue-grey-text text-lighten-5
 permalink: /test/
 ---
 
-{{ site.collections }}
+{{ site.kids }}
