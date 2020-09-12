@@ -7,3 +7,4 @@ permalink: /test/
 ---
 
 {{ site.kids }}
+{{ site.collections | where: "label", "kids" }}
