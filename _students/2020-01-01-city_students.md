@@ -13,7 +13,7 @@ different backgrounds, countries and cultures find a home at City, and we would 
 
 # In Leeds for university? We’d love to welcome you!
 
-Whether you’re a keen Christian or a sceptic trying to figure out the big questions of life, we want to give you the chance to develop spiritually – by learning from the Bible about who Jesus is, and what life with him is all about. We believe this happens best in the context of warm community, where real friendships can be cultivated both with other students and with the wider church family! 
+Whether you’re a keen Christian or a sceptic trying to figure out the big questions of life, we want to give you the chance to develop spiritually – by learning from the Bible about who Jesus is, and what life with him is all about. We believe this happens best in the context of loving church community, where real friendships can be cultivated both with other students and with the wider church family! 
 
 It looks like 2020/21 will be a strange year to be a student, and you may be approaching the new term with all sorts of worries and concerns – particularly if you’re a fresher. Well, we’re working hard to ensure all our students still get the opportunity to enjoy proper community – even in a time of face masks, social distancing and Zoom fatigue! Watch this video to learn more:
 
