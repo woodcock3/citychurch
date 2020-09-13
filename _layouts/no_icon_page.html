@@ -5,11 +5,11 @@ layout: headfoot
 {% include collectionnav.html %}
 
 
-    {% for page in site.kids %}
+    {% for page in site.students %}
       {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
       <div id="{{id}}" class="section p-{{id}}">
         {% if page.icon %}
-        <div class="subtlecircle sectiondivider">
+        <div class="sectiondivider">
           <span class="fa-stack">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa-stack-1x icon">
@@ -19,7 +19,7 @@ layout: headfoot
           <h5 class="icon-title">{{ page.title }}</h5>
         </div>
         {% elsif page.fa-icon %}
-        <div class="subtlecircle sectiondivider faicon">
+        <div class="sectiondivider">
           <span class="fa-stack">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-{{ page.fa-icon }} fa-stack-1x"></i>
