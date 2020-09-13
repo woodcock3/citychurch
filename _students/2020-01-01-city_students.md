@@ -4,7 +4,7 @@ bg: ckblue
 color: white
 style: center
 collection_type: "students"
-layout: all_collections
+layout: no_icon_page
 ---
 
 # WELCOME STUDENTS!
