@@ -34,7 +34,7 @@ SIGN-UP
 
 You can also get in touch by sending us an email. Over the next few weeks we’ll be announcing further plans and events, so follow us on Instagram or Facebook to keep in the loop.
 
-# Student life at Grace Church
+# Student life in church
 Bible study
 
 Every Sunday evening during term time we have our student Bible study - where we hang out with each other, and learn more about Jesus by digging into the Bible together. This runs on Zoom, with plenty of chance for chat and discussion in smaller groups.
