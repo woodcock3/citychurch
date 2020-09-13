@@ -1,6 +1,11 @@
-
-
-
+---
+title: "City Students"
+bg: ckblue
+color: white
+style: center
+collection_type: "students"
+layout: all_collections
+---
 
 City Students
 WELCOME STUDENTS!
