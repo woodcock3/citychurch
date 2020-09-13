@@ -69,6 +69,9 @@ collections:
   kids:
     output: true
     permalink: /kids/
+  students:
+    output: true
+    permalink: /students/
 
 sass:
   sass_dir: stylesheets/_sass/
