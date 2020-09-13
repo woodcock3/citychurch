@@ -2,7 +2,8 @@
 layout: headfoot
 ---
 
-{% assign webpage = site.documents | where: "collection_type", "kids" %}
+{% assign type = page.collection_type %}
+{% assign webpage = site.documents | where: "collection_type", type %}
 {% include collectionnav.html %}
 
     {% for page in webpage %}
