@@ -10,12 +10,14 @@ $.extend($.easing,
     }
 });
 
-if (function( $ === "movenav" ) {
+function( $ ) {
 
     var settings;
     var disableScrollFn = false;
     var navItems;
     var navs = {}, sections = {};
+	
+    if (navItems.id === "movenav") {
 
     $.fn.navScroller = function(options) {
         settings = $.extend({
@@ -52,6 +54,7 @@ if (function( $ === "movenav" ) {
                     activateNav(i);
                 }
             }
+	}
         });
     };
 
