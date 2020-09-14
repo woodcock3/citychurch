@@ -4,6 +4,7 @@ layout: default
 bg: black
 color: white
 permalink: /safeguarding/
+tag: page
 ---
 
 ## Safeguarding
