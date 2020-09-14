@@ -10,7 +10,7 @@ $.extend($.easing,
     }
 });
 
-(function( $ ) {
+(function myScroller( $ ) {
 
     var settings;
     var disableScrollFn = false;
