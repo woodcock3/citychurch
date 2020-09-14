@@ -4,6 +4,7 @@ layout: default
 bg: cityorange
 color: white
 permalink: /cookies/
+tag: page
 ---
 
 # Cookies
