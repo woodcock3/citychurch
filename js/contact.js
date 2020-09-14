@@ -17,11 +17,11 @@ var d_ = ".";
 function contact1(name, dom, tl, params)
 {
 	var s = e(name,dom,tl);
-	document.getElementById( "method1" ).innerHTML('<a href="'+m_+s+params+'">'+s+'</a>');
+	document.getElementById( "contacting1" ).innerHTML('<a href="'+m_+s+params+'">'+s+'</a>');
 }
 function contact2(name, dom, tl, params, display)
 {
-	document.getElementById( "method1" ).innerHTML('<a href="'+m_+e(name,dom,tl)+params+'">'+display+'</a>');
+	document.getElementById( "contacting1" ).innerHTML('<a href="'+m_+e(name,dom,tl)+params+'">'+display+'</a>');
 }
 function e(name, dom, tl)
 {
