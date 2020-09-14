@@ -40,6 +40,7 @@ https://shopify.github.io/liquid
 Rot47 encryptions
 =============
 [Rot47.net](https://rot47.net)
+If you need to encrypt something try [Atomicframeworks Rot47 byte-saving js](https://gist.github.com/atomicframeworks/7981834)
 
 Jekyll Build
 ============
