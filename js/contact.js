@@ -14,12 +14,12 @@ var m_ = "mailto:";
 var a_ = "@";
 var d_ = ".";
 
-function mail(name, dom, tl, params)
+function contact1(name, dom, tl, params)
 {
 	var s = e(name,dom,tl);
 	document.write('<a href="'+m_+s+params+'">'+s+'</a>');
 }
-function mail2(name, dom, tl, params, display)
+function contact2(name, dom, tl, params, display)
 {
 	document.write('<a href="'+m_+e(name,dom,tl)+params+'">'+display+'</a>');
 }
