@@ -10,7 +10,7 @@ $.extend($.easing,
     }
 });
 
-(function( $ ) {
+if (function( $ === "movenav" ) {
 
     var settings;
     var disableScrollFn = false;
