@@ -14,15 +14,10 @@
       {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
       <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
     {% endfor %}
+      <a href="kids/">City kids</a>
+      <a href="students/">Students</a>
+      <a class="dropdown-trigger right" href="#!" data-target="dropdown1">Dropdown thing</a>
     </ul>
-  </div>
-  <div class="nav-wrapper">
-    <ul class="hide-on-med-and-down">
-    <!-- Dropdown Trigger -->
-      <li><a class="dropdown-trigger right" href="#!" data-target="dropdown1">Dropdown thing</a></li>
-      <li><a href="kids/">City kids</a></li>
-      <li><a href="students/">Students</a></li>
-    </ul>  
   </div>
 </nav>
     
