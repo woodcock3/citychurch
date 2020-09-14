@@ -10,16 +10,16 @@
     <a href="/" class="brand-logo">{% include safari-pinned-tab.svg %}</a>
     <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="left fa fa-bars fa-lg"> MENU</i></a>
     <ul class="hide-on-med-and-down">
-    {% for node in site.posts reversed %}
-      {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
-      <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
-    {% endfor %}
+      <div id="movenav">
+      {% for node in site.posts reversed %}
+        {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
+        <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
+      {% endfor %}
+      </div>
+        <li><a href="kids/">City kids</a></li>
+        <li><a href="students/">Students</a></li>
+        <li><a class="dropdown-trigger right" href="#!" data-target="dropdown1">Dropdown thing</a></li>
     </ul>
-    <ol>
-      <li><a href="kids/">City kids</a></li>
-      <li><a href="students/">Students</a></li>
-      <li><a class="dropdown-trigger right" href="#!" data-target="dropdown1">Dropdown thing</a></li>
-    </ol>
   </div>
 </nav>
     
