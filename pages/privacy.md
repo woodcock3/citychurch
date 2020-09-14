@@ -4,6 +4,7 @@ layout: default
 bgcolor: blue darken-4
 textcolor: blue-grey-text text-lighten-5
 permalink: /privacy/
+tag: page
 ---
 
 ## How we process your data
