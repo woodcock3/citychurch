@@ -1,3 +1,5 @@
+---
+---
 #main
   nav .nav-wrapper .brand-logo
     svg
@@ -15,6 +17,18 @@
     li
       min-width: 80px
       float: none
+  nav ul a
+    display: inline-block
+    border-top: {{navborder}}px solid
+    padding: {{navborder}}px
+    *display: inline
+    zoom: 1
+    line-height: normal
+    letter-spacing: normal
+    text-transform: uppercase
+    min-width: 110px
+    line-height: 60px
+    margin: 0
   #events
     .icon img
       width: 55%
