@@ -98,7 +98,7 @@ $(document).ready(function (){
   $('.collapsible').collapsible();
 	
   // Dropdowns
-  $('.dropdown-trigger').dropdown({ hover: true, coverTrigger: false });
+  $('.dropdown-trigger').dropdown();
 	
   // Form components
   $('select').formSelect();
