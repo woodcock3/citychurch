@@ -6,15 +6,13 @@
 <nav>
   <div class="nav-wrapper">
     <a href="/" class="brand-logo">{% include safari-pinned-tab.svg %}</a>
-    <div class="hide-on-med-and-down">
-      <a class="dropdown-trigger right" href="#!" data-target="dropdown1">More</a>
-    </div>
     <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="left fa fa-bars fa-lg"> MENU</i></a> 
     <ul class="hide-on-med-and-down">
       {% for node in site.posts reversed %}
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
       {% endfor %}
+    <a class="btn-floating btn-large halfway-fab waves-effect waves-light dropdown-trigger" href="#!" data-target="dropdown1">More</a>
     </ul> 
   </div>
 </nav>
