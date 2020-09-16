@@ -1,7 +1,7 @@
 <!-- Dropdown Structure -->
 <ul id="dropdown1" class="dropdown-content">
-  <li><a href="#!">one</a></li>
-  <li><a href="#!">two</a></li>
+  <li><a href="kids/">City Kids</a></li>
+  <li><a href="students/">Students</a></li>
   <li class="divider"></li>
   <li><a href="#!">three</a></li>
 </ul>
@@ -9,7 +9,7 @@
   <div class="nav-wrapper">
     <a href="/" class="brand-logo">{% include safari-pinned-tab.svg %}</a>
     <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="left fa fa-bars fa-lg"> MENU</i></a>
-    <a class="dropdown-trigger right brand-logo hide-on-med-and-down" href="#!" data-target="dropdown1">Dropdown thing</a></li>
+    <a class="dropdown-trigger right brand-logo" href="#!" data-target="dropdown1">More</a></li>
     <ul class="hide-on-med-and-down">
       {% for node in site.posts reversed %}
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
