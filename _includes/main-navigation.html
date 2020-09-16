@@ -12,7 +12,9 @@
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
       {% endfor %}
-    <a class="btn-large navbtn dropdown-trigger" href="#!" data-target="dropdown1">More     <i class="fa fa-sort-desc"></i></a>
+    <div class="navbtns">
+      <a class="btn-large navbtn dropdown-trigger" href="#!" data-target="dropdown1">More <i class="fa fa-sort-desc"></i></a>
+    </div>  
     </ul> 
   </div>
 </nav>
