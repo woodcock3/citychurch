@@ -8,7 +8,7 @@ layout: all_collections
 ---
 
 <div class="divmax-width ckimage">
-  <img src="{{ 'img/students/City_Kids_banner.png' | relative_url }}">
+  <img src="{{ 'img/students/gary-butterfield-71AzA4GF2ok-unsplash.jpg' | relative_url }}">
 </div>
 
 # In Leeds for university? We’d love to welcome you!
