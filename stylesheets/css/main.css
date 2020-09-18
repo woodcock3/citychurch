@@ -136,10 +136,11 @@ hr {
 	left: 50%;
 	margin-left: -50vw;
 	margin-right: -50vw;
-	max-width: 100vw;
+	max-height: 50vh;
 	position: relative;
 	right: 50%;
-	height: 50vw;
+	height: 50vh;
+        transform: translateY(-80px);
 	
 
 /* The hero image */
@@ -160,7 +161,6 @@ hr {
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
-} transform: translateY(-80px);
 }
 
 /* Place text in the middle of the image */
