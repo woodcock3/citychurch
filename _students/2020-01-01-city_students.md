@@ -7,8 +7,13 @@ collection_type: "students"
 layout: all_collections
 ---
 
-<div class="divmax-width ckimage">
+<div class="hero-image ckimage">
   <img src="{{ 'img/students/gary-butterfield-71AzA4GF2ok-unsplash.jpg' | relative_url }}">
+  <div class="hero-text">
+    <h1><strong>Students</strong></h1>
+    <p>And I'm a Photographer</p>
+    <button>Hire me</button>
+  </div>
 </div>
 
 # In Leeds for university? We’d love to welcome you!
