@@ -92,6 +92,10 @@ hr {
     margin-top: 40px;
 }
 
+/* ---------------------------*/
+/* ----- Media & images ----- */
+/* ---------------------------*/
+
 /* keep embedded videos fluid! */
 .icontain {
   position: relative;
@@ -115,8 +119,8 @@ hr {
   *display:inline;
 }
 
-/* Makes a div break out of container for full-width */
-.divmax-width {
+/* Makes a div break out of container for full-width (good for hero images)*/
+.hero-image {
 	left: 50%;
 	margin-left: -50vw;
 	margin-right: -50vw;
@@ -124,6 +128,16 @@ hr {
 	position: relative;
 	right: 50%;
 	width: 100vw;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
 }
 
 /* ---------------------------*/
