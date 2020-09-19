@@ -8,7 +8,7 @@ layout: all_collections
 image-url: 'img/students/gary-butterfield-71AzA4GF2ok-unsplash.jpg'
 ---
 
-<div class="hero-image-max">
+<div class="hero-image-50">
   <img src="{{ 'img/students/gary-butterfield-71AzA4GF2ok-unsplash.jpg' | relative_url }}">
   <div class="hero-text">
     <h1><strong>Students</strong></h1>
