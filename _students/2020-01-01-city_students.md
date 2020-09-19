@@ -7,7 +7,7 @@ collection_type: "students"
 layout: all_collections
 ---
 
-<div class="hero-image-50">
+<div class="hero-image browser-default">
   <img src="{{ 'img/students/gary-butterfield-71AzA4GF2ok-unsplash.jpg' | relative_url }}">
   <div class="hero-text">
     <h1><strong>Students</strong></h1>
