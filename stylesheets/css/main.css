@@ -135,19 +135,19 @@ hr {
 /* Makes a div break out of container for full-width & 50% height of screen */
 .hero-image-50 {
   left: 50%;
-  margin-top: -50vh;
-  margin-bottom: -50vh;
-  max-height: 50vh;
+  margin-left: -50vw;
+  margin-right: -50vw;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("{{ page.image-url | relative_url }}");
   position: relative;
-  top: 25%;
-  height: 50vh;
+  right: 50%;
+  width: 100vw;
+  max-height: 50%;
   transform: translateY(-80px);
 }
 
 /* The hero image */
 .hero-image {
-  height: 50vh;
+  max-height: 50%;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("{{ page.image-url | relative_url }}");
   background-position: center;
   background-repeat: no-repeat;
