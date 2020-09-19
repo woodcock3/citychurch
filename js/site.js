@@ -102,6 +102,9 @@ $(document).ready(function (){
       'closeOnClick': true,
       'hover': true,
       });
+
+  // Parrellax
+  $('.parallax').parallax();
 	
   // Form components
   $('select').formSelect();
