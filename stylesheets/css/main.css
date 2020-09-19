@@ -140,7 +140,7 @@ hr {
   max-height: 50vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("{{ page.image-url | relative_url }}");
   position: relative;
-  right: 50%;
+  top: 25%;
   height: 50vh;
   transform: translateY(-80px);
 }
