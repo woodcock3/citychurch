@@ -8,7 +8,7 @@ layout: all_collections
 image-url: 'img/students/gary-butterfield-71AzA4GF2ok-unsplash.jpg'
 ---
 
-<div class="hero-image-50">
+<div class="hero-image-max">
   <img src="{{ 'img/students/gary-butterfield-71AzA4GF2ok-unsplash.jpg' | relative_url }}">
   <div class="hero-text">
     <h1><strong>Students</strong></h1>
@@ -35,6 +35,19 @@ If your unable to attend the church service physically, why not join other stude
 To sign-up for any of these, or just to say hello and register interest, click below:
 
 SIGN-UP
+
+<div class="parallax-container">
+      <div class="parallax"><img src="img/students/gary-butterfield-71AzA4GF2ok-unsplash.jpg"></div>
+    </div>
+    <div class="section white">
+      <div class="row container">
+        <h2 class="header">Parallax</h2>
+        <p class="grey-text text-darken-3 lighten-3">Parallax is an effect where the background content or image in this case, is moved at a different speed than the foreground content while scrolling.</p>
+      </div>
+    </div>
+    <div class="parallax-container">
+      <div class="parallax"><img src="img/students/gary-butterfield-71AzA4GF2ok-unsplash.jpg"></div>
+    </div>
 
 You can also get in touch by sending us an email. Over the next few weeks we’ll be announcing further plans and events, so follow us on Instagram or Facebook to keep in the loop.
 
