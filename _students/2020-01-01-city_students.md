@@ -20,7 +20,7 @@ It looks like 2020/21 will be a strange year to be a student, and you may be app
 
 
 ## Student link-up
-Get to know other students by joining the churches student WhatsApp group. Meet with a City Church student and have the chance to find out more about us, and gain an easy way into church community. Text [Rachael](07541171711) to join the group.
+Get to know other students by joining the churches student WhatsApp group. Meet with a City Church student and have the chance to find out more about us, and gain an easy way into church community. Text <a href="tel:07541171711">Rachael</a> to join the group.
 
 
 ## Wider church life
