@@ -4,6 +4,8 @@ bg: thursday
 color: white
 border-color: friday
 fa-icon: bullhorn
+collection_type: "students"
+layout: all_collections
 ---
 
 <div class="section-lines section-top section-left"></div>
