@@ -22,23 +22,15 @@ Whether you’re a keen Christian or a sceptic trying to figure out the big ques
 It looks like 2020/21 will be a strange year to be a student, and you may be approaching the new term with all sorts of worries and concerns – particularly if you’re a fresher. Well, we’re working hard to ensure all our students still get the opportunity to enjoy proper community – even in a time of face masks, social distancing and Zoom fatigue!
 
 
-Here are some welcome initiatives you can sign-up for now:
 
 ## Student link-up
-Meet with a City Church student and have the chance to find out more about us, and gain an easy way into church community.
-
-## Adopt-a-student
-Don't want to be stuck in a student  bubble? Be 'adopted' by a couple/family in the church who can get to know you, and meet you for coffee from time to-time – as social distancing allows!
-
-## Watch parties
-If your unable to attend the church service physically, why not join other students and church family as they meet in small Zoom groups to watch the live stream together.
-To sign-up for any of these, or just to say hello and register interest, click below:
-
-SIGN-UP
+Get to know other students by joining the churches student WhatsApp group. Meet with a City Church student and have the chance to find out more about us, and gain an easy way into church community.
 
 
 
-You can also get in touch by sending us an email. Over the next few weeks we’ll be announcing further plans and events, so follow us on Instagram or Facebook to keep in the loop.
+
+
+
 
 # Student life in church
 Bible study
