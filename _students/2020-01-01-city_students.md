@@ -2,10 +2,8 @@
 title: "City Students"
 bg: ckblue
 color: white
-style: center
 collection_type: "students"
 layout: all_collections
-image-url: 'img/students/gary-butterfield-71AzA4GF2ok-unsplash.jpg'
 ---
 
 <div class="hero-image-max">
