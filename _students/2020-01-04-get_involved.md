@@ -28,7 +28,7 @@ layout: all_collections
         </div>
         <p class="col m12 activity-desc"> {{ activity.text }} </p>
         {% if activity.typeform %}
-        <a class="waves-effect waves-light btn bg-{{ page.border-color }}" href="{{ activity.button }}" onmouseover="this.href=this.href.replace('@@','.')">Email Student Team</a>
+        <a class="waves-effect waves-light btn bg-{{ page.border-color }}" href="{{ activity.typeform }}" onmouseover="this.href=this.href.replace('@@','.')">Email Student Team</a>
         {% endif %}
       </div>
     </div>
@@ -44,7 +44,7 @@ layout: all_collections
         <h2 class="activity-title"> {{ activity.title }} </h2>
         <p class="col m12 activity-desc"> {{ activity.text }} </p>
         {% if activity.typeform %}
-        <a class="waves-effect waves-light btn bg-{{ page.border-color }}" href="{{ activity.button }}" target="blank">Find a CU</a>
+        <a class="waves-effect waves-light btn bg-{{ page.border-color }}" href="{{ activity.typeform }}" target="blank">Find a CU</a>
         {% endif %}
       </div>
     </div>
