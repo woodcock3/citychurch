@@ -54,13 +54,13 @@ wednesday:
 
 thursday:
   - title: Christian Union
-    button: https://www.uccf.org.uk/search?q=leeds
+    typeform: https://www.uccf.org.uk/search?q=leeds
     text: The CU is a fantastic opportunity to tell others about Christ and to be encouraged so, if your university has one please get involved!
 
   - title: Growth groups
     time: 7:45 or 8pm
     place: We've got two small groups in north Leeds.
-    button: mailto:doctorndentist@@gmail.com
+    typeform: mailto:doctorndentist@@gmail.com
     text: Our growth groups are currently meeting using Zoom, contact the Student Team for further details.
 
 friday:
