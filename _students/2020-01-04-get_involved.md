@@ -18,20 +18,17 @@ layout: all_collections
   <div class="activity section-left section-bottom">
   {% endif %}
     <div class="row activity-info-wrapper valign-wrapper">
-      <div class="col m3 activity-img valign">
-        <img  src="img/{{ activity.image }}" alt="{{ activity.title }}">
-      </div>
-      <div class="col m9 activity-info">
-        <h4 class="activity-title">Growth Groups</h4>
+      <div class="col m12 activity-info">
+        <h2 class="activity-title"> {{ activity.title }} </h2>
         <div class="col s12 activity-time">
-          <i class="fa fa-clock-o"></i> <span> 7.45 or 8pm midweek </span>
+          <i class="fa fa-clock-o"></i> <span> {{ activity.time }} </span>
         </div>
         <div class="col s12 activity-place">
-          <i class="fa fa-map-marker"></i> <span> We’ve got two small group bible studies in North Leeds. </span>
+          <i class="fa fa-map-marker"></i> <span> {{ activity.place }} </span>
         </div>
-        <p class="col m12 activity-desc"> If you want to come along but need a lift, the Student Team will sort it out. </p>
+        <p class="col m12 activity-desc"> {{ activity.text }} </p>
         {% if activity.typeform %}
-        <a class="waves-effect waves-light btn bg-{{ page.border-color }}" href="{{ activity.typeform }}" target="blank">Inscrio</a>
+        <a class="waves-effect waves-light btn bg-{{ page.border-color }}" href="{{ activity.button }}" onmouseover="this.href=this.href.replace('@@','.')">Student Team</a>
         {% endif %}
       </div>
     </div>
