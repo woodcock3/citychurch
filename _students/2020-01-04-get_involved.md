@@ -3,7 +3,7 @@ title: "Get involved"
 bg: thursday
 color: white
 border-color: friday
-fa-icon: bullhorn
+fa-icon: cog
 collection_type: "students"
 layout: all_collections
 ---
