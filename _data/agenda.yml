@@ -17,7 +17,7 @@ monday:
     time: 9h-18h
     place: Átrio do DI
     image: retro.png
-    text: É durante este dia que o Departamento de Informática entra numa máquina do tempo. Os computadores são substituídos pelos seus antecessores dos anos 80 e 90. Aparece para relembrar as raízes da computação através de jogos arcade e um museu aberto!
+    text: E durante este dia que o Departamento de Informatica entra numa maquina do tempo. Os computadores sao substituídos pelos seus antecessores dos anos 80 e 90. Aparece para relembrar as raízes da computação através de jogos arcade e um museu aberto!
 
   - title: Bash Introduction
     time: 16h-18h
@@ -28,7 +28,7 @@ monday:
     presentation: https://prezi.com/nxv4lyntrudh/cesium-bash-introduction/
 
 tuesday:
-  - title: Segurança
+  - title: Seguranca
     time: 17h-19h
     place: DI A1
     image: segurança.png
@@ -45,24 +45,17 @@ wednesday:
   - title: "Last weeks recorded church service"
     time: 10:45am every Sunday
     place: City Evangelical Church
-    image: elixir.png
     typeform: youtube/
     text: Catch up on our last Sunday service if you could not come or missed the live stream.  
 
   - title: Recent services and devotions
-    time: 16h-18h
-    place: DI A1
-    image: javascript.png
     typeform: https://www.youtube.com/channel/UCALb0SwFaFdPY2gwOesvb_g
     text: On our YouTube channel there are recorded services and devotions from throughout the 2020 covid lockdown.
 
 thursday:
-  - title: Ionic
-    time: 17h-19h
-    place: DI A1
-    image: ionic.png
-    typeform: https://cesium.typeform.com/to/lkBZaK
-    text: Ionic é uma framework mobile que te permite desenvolver apps para iOS e Android, com JavaScript, HTML e CSS. Aparece nesta talk dada pela <a target="_blank" href="http://subvisual.co/">Subvisual</a>!
+  - title: Christian Union
+    button: https://www.uccf.org.uk/search?q=leeds
+    text: The CU is a fantastic opportunity to tell others about Christ and to be encouraged so, if your university has one please get involved!
 
   - title: Growth groups
     time: 7:45 or 8pm
