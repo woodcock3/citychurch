@@ -1,6 +1,6 @@
 ---
 title: "City Students"
-bg: ckblue
+bg: stuteal
 color: white
 collection_type: "students"
 layout: all_collections
