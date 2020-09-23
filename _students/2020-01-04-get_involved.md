@@ -42,12 +42,6 @@ layout: all_collections
     <div class="row activity-info-wrapper valign-wrapper">
       <div class="col m12 activity-info">
         <h2 class="activity-title"> {{ activity.title }} </h2>
-        <div class="col m12 activity-time">
-          <i class="fa fa-clock-o"></i> <span> {{ activity.time }} </span>
-        </div>
-        <div class="col m12 activity-place">
-          <i class="fa fa-map-marker"></i> <span> {{ activity.place }} </span>
-        </div>
         <p class="col m12 activity-desc"> {{ activity.text }} </p>
         {% if activity.typeform %}
         <a class="waves-effect waves-light btn bg-{{ page.border-color }}" href="{{ activity.button }}" target="blank">Find a CU</a>
