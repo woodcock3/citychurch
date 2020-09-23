@@ -18,6 +18,7 @@ Whether you’re a keen Christian or a sceptic trying to figure out the big ques
 
 It looks like 2020/21 will be a strange year to be a student, and you may be approaching the new term with all sorts of worries and concerns – particularly if you’re a fresher. Well, we’re working hard to ensure all our students still get the opportunity to enjoy proper community – even in a time of face masks, social distancing and Zoom fatigue! If its all getting too much and you need help please do reach out and email or call us.
 
+<div class="icontain"><iframe title="Student team welcome" src="//https://videopress.com/v/TwGU3f9B" allowfullscreen></iframe></div>
 
 ## Student link-up
 Get to know other students by joining the churches student WhatsApp group. Meet with a City Church student and have the chance to find out more about us, and gain an easy way into church community. Text <a href="tel:07541171711">Rachael</a> to join the group.
