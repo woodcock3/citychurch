@@ -1,1 +1,1 @@
-<?php include("./php/sermons/include.php"); ?>
+<?php include("/home/ceclee/public_html/php/sermons/include.php"); ?>
