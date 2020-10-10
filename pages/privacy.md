@@ -13,11 +13,21 @@ This website is powered by Jekyll, DeployHQ, Forestry.io and is hosted on GitHub
 
 ### Google Analytics
 
-This website uses Google Analytics. This happens only if you approve third party cookies and scripts. However, we have taken all actions we can to limit the power of Google. We have configured Google Analytics to anonymize IP addresses and use SSL at all times.
+This website uses Google Analytics. This happens only if you approve third party analytics cookies. However, we have taken all actions we can to limit the power of Google. We have configured Google Analytics to anonymize IP addresses and use SSL at all times. We use Google Analytics as a third party analytics service to collect information about how our website performs and how our users, in general, navigate through and use cecleeds.co.uk. This helps us evaluate how you use our website, compile statistical reports on activity, and improve our content and website performance.
 
-We use Google Analytics as a third party analytics service to collect information about how our website performs and how our users, in general, navigate through and use cecleeds.co.uk. This helps us evaluate how you use our website, compile statistical reports on activity, and improve our content and website performance.
 
-You can control your Google Analytics cookie preferences through our cookie preference link located at the footer of our website. In addition, Google provides further information about its own privacy practices and offers a browser add-on to opt out of Google Analytics tracking.
+They store several cookies on users' computers or mobiles which are used to collect information to analyse which parts of the site are most useful to our visitors and to help us find and . We also use this kind of cookie to track errors and missing files. The information is used only for web analytics and no personal details are stored.
+
+The information we collect includes:
+
+The name of your internet service provider and the internet protocol (IP) address you are using. This may or may not identify a specific computer.
+The date and time you visit our website, and the pages you look at.
+The internet address of any websites which have linked you directly to our site.
+
+To opt out of being tracked by Google Analytics across all websites visit http://tools.google.com/dlpage/gaoptout.
+
+For more information visit Google's privacy and terms
+
 
 ### Other third party cookies
 
