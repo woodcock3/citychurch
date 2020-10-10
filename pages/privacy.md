@@ -22,7 +22,7 @@ The information we collect includes:
 * The date and time you visit our website, and the pages you look at.
 * The internet address of any websites which have linked you directly to our site.
 
-To opt out of being tracked by Google Analytics across all websites visit http://tools.google.com/dlpage/gaoptout.
+To opt out of being tracked by Google Analytics across all websites visit [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout).
 
 For more information visit [Google's privacy and terms](https://policies.google.com/technologies/partner-sites).
 
