@@ -14,17 +14,7 @@ layout: all_collections
 # Christmas at City
 Join with us this Christmas for our services in person and online. If you would like to come please book a seat in advance by emailing <script>contact1("office","cecleeds",10,"?Subject=Seat reservation&Body=Hi%0D%0D%0ASeat reservation%0D%0A==============%0D%0D%0ADate attending church service:%0D%0AMorning or Evening:%0D%0ANumber of seats required:%0D%0ADo you prefer the ground floor, the balcony or no preference:%0D%0D%0AList of first name(s), last name(s) %26 phone number(s) of those coming to the service:")</script><noscript>You must enable JavaScript to view this text.</noscript> with a list of the number of seats needed, which service you are attending, the names and phone numbers of everyone who will be coming and if you would prefer to sit on the ground floor or the balcony. The book a seat button below will open your email.
 
-If you cannot come you can watch the live stream of the morning service or catch up on YouTube.
-
-
-## Nativity service
-13th December at 10:45am
-
-## Carol concert
-20th December at 6:30pm
-
-## Christmas day service
-25th December at 10:45am
+If you cannot come you can watch the live stream of the services or catch up on YouTube.
 
 
 <div class="row btnlinks">
@@ -38,6 +28,17 @@ If you cannot come you can watch the live stream of the morning service or catch
       <a class="waves-effect waves-light btn-large" href="youtube/">Catch up on Youtube</a>
     </div>
   </div>
+
+
+## Nativity service
+13th December at 10:45am
+
+## Carol concert
+20th December at 6:30pm
+
+## Christmas day service
+25th December at 10:45am (in person only)
+
 
 
 
