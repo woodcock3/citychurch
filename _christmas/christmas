@@ -8,7 +8,7 @@ layout: all_collections
 ---
 
 <div class="hero-image-max">
-  <img src="{{ 'img/citykids/City_Kids_banner.png' | relative_url }}">
+  <img src="{{ 'img/christmas/happy_xmas.jpg' | relative_url }}">
 </div>
 
 # Nativity service
@@ -19,4 +19,8 @@ layout: all_collections
 
 # Christmas day service
 25th December at 10:45
+
+<div class="hero-image-max">
+  <img src="{{ 'img/christmas/xmas_city.jpg' | relative_url }}">
+</div>
 
