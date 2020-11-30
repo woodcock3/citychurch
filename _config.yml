@@ -74,6 +74,9 @@ collections:
   students:
     output: true
     permalink: /students/
+  christmas:
+    output: true
+    permalink: /christmas/
 
 sass:
   sass_dir: stylesheets/_sass/
