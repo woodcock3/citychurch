@@ -19,13 +19,13 @@ If you cannot come you can watch the live stream of the services or catch up on 
 <br>
 <div class="row btnlinks">
     <div class="col s12 m4 btnlink">
-      <a class="indigo darken-4 waves-effect waves-light btn-large" href='mailto:office@cecleeds@@co.uk?Subject=Seat reservation&Body=Hi%0D%0D%0ASeat reservation%0D%0A==============%0D%0D%0ADate attending church service:%0D%0AMorning or Evening:%0D%0ANumber of seats required:%0D%0ADo you prefer the ground floor, the balcony or no preference:%0D%0D%0AList of first name(s), last name(s) %26 phone number(s) of those coming to the service:' onmouseover="this.href=this.href.replace('@@','.')">Book your seat</a>
+      <a class="blue darken-4 waves-effect waves-light btn-large" href='mailto:office@cecleeds@@co.uk?Subject=Seat reservation&Body=Hi%0D%0D%0ASeat reservation%0D%0A==============%0D%0D%0ADate attending church service:%0D%0AMorning or Evening:%0D%0ANumber of seats required:%0D%0ADo you prefer the ground floor, the balcony or no preference:%0D%0D%0AList of first name(s), last name(s) %26 phone number(s) of those coming to the service:' onmouseover="this.href=this.href.replace('@@','.')">Book your seat</a>
     </div>
     <div class="col s12 m4 btnlink">
-      <a class="indigo darken-4 waves-effect waves-light btn-large" href="youtube/?live=1">Watch live</a>  
+      <a class="blue darken-4 waves-effect waves-light btn-large" href="youtube/?live=1">Watch live</a>  
     </div>
     <div class="col s12 m4 btnlink">
-      <a class="indigo darken-4 waves-effect waves-light btn-large" href="https://www.youtube.com/channel/UCALb0SwFaFdPY2gwOesvb_g">Catch up on Youtube</a>
+      <a class="blue darken-4 waves-effect waves-light btn-large" href="https://www.youtube.com/channel/UCALb0SwFaFdPY2gwOesvb_g">Catch up on Youtube</a>
     </div>
   </div>
 <br>
