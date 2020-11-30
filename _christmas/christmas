@@ -20,7 +20,7 @@ layout: all_collections
 # Christmas day service
 25th December at 10:45
 
-<div class="hero-image-max">
+<div class="hero-image">
   <img src="{{ 'img/christmas/xmas_city.jpg' | relative_url }}">
 </div>
 
