@@ -11,6 +11,7 @@ layout: all_collections
   <img src="{{ 'img/christmas/happy_xmas.jpg' | relative_url }}">
 </div>
 
+
 # Nativity service
 13th December at 10:45am
 
@@ -19,6 +20,7 @@ layout: all_collections
 
 # Christmas day service
 25th December at 10:45
+
 
 <div class="hero-image">
   <img src="{{ 'img/christmas/xmas_city.jpg' | relative_url }}">
