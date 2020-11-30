@@ -25,7 +25,7 @@ If you cannot come you can watch the live stream of the services or catch up on 
       <a class="waves-effect waves-light btn-large" href="youtube/?live=1">Watch live</a>  
     </div>
     <div class="col s12 m4 btnlink">
-      <a class="waves-effect waves-light btn-large" href="youtube/">Catch up on Youtube</a>
+      <a class="waves-effect waves-light btn-large" href="https://www.youtube.com/channel/UCALb0SwFaFdPY2gwOesvb_g">Catch up on Youtube</a>
     </div>
   </div>
 
