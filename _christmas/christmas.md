@@ -42,7 +42,7 @@ If you cannot come you can watch the live stream of the services or catch up on 
 <br>
 <br>
 
-<iframe frameborder="0" height="400" scrolling="no" src="https://cecleeds.churchsuite.com/embed/calendar/featured?num_results=6" style="border-width:0" width="100%"></iframe>
+<iframe frameborder="0" height="800" scrolling="no" src="https://cecleeds.churchsuite.com/embed/calendar/featured?num_results=6" style="border-width:0" width="100%"></iframe>
 
 <div class="hero-image">
   <img src="{{ 'img/christmas/xmas_city.jpg' | relative_url }}">
