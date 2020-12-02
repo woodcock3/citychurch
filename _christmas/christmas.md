@@ -46,3 +46,5 @@ If you cannot come you can watch the live stream of the services or catch up on 
   <img src="{{ 'img/christmas/xmas_city.jpg' | relative_url }}">
 </div>
 
+<iframe frameborder="0" height="1000" scrolling="yes" src="https://cecleeds.churchsuite.com/events/3w1srv1q?details=1&photo=1&description=1&location=1&gmap=0&signup_form=1" style="border-width:0" width="100%"></iframe>
+
