@@ -68,6 +68,10 @@ https://www.mymusic.mp3
 https://www.youtube.com/watch?v=1ZM-jnXh4uw
 ~~~
 
+Imgbot - Optimise images
+===============
+I use Imgbot to optimise my images for the web. It's free for open source projects.  https://imgbot.net/
+
 Forestry
 ========
 Forestry.io is linked to this site to enable content editors to use a CMS. https://forestry.io. Forestry is built on Git so that Developers and Content editor can use the same workflow and toolset.
