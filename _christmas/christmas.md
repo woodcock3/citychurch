@@ -52,7 +52,7 @@ If you cannot come you can watch the live stream of the services or catch up on 
           <a class="btn-floating btn-large halfway-fab waves-effect waves-light red"><i class="fa fa-play-circle-o" aria-hidden="true"></i></a>
         </div>
         <div class="card-content light-blue-text text-darken-4">
-          <p><strong>Home for Christmas</strong> - this is a carol service featuring a collection of Christmas Songs, Bible readings and a short talk by Roger Carswell. Please click the image to go to their webiste.</p>
+          <p><strong>Home for Christmas</strong> - this is a carol service featuring a collection of Christmas Songs, Bible readings and a short talk by Roger Carswell. Please click the red play button image to go to their website.</p>
         </div>
       </div>
     </div>
