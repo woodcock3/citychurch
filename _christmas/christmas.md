@@ -45,7 +45,7 @@ If you cannot come you can watch the live stream of the services or catch up on 
 # Watch a carol service at home (featuring Roger Carswell)
 
 <div class="row">
-    <div class="col s12 m6">
+    <div class="col s6 offset-s3">
       <div class="card">
         <div class="card-image">
           <a href="https://fiec.org.uk" target="blank"><img src="{{ 'img/christmas/home-for-christmas-cd.jpg' | relative_url }}"/>
