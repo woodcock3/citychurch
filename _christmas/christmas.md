@@ -49,12 +49,11 @@ Home for Christmas is a collection of Christmas Songs, Bible readings and a shor
     <div class="col s12 m6">
       <div class="card">
         <div class="card-image">
-          <img src="{{ 'img/christmas/home-for-christmas-cd.jpg' | relative_url }}">
-          <span class="card-title">Home for Christmas</span>
+          <img src="{{ 'img/christmas/home-for-christmas-cd.jpg' | relative_url }}" href="https://www.homeforchristmas.org.uk/watch/">
           <a class="btn-floating halfway-fab waves-effect waves-light red" href="https://www.homeforchristmas.org.uk/watch/"><i class="material-icons">add</i></a>
         </div>
         <div class="card-content light-blue-text text-darken-4">
-          <p>This is a carol service featuring a collection of Christmas Songs, Bible readings and a short talk by Roger Carswell.</p>
+          <p><strong>Home for Christmas</strong> - this is a carol service featuring a collection of Christmas Songs, Bible readings and a short talk by Roger Carswell.</p>
         </div>
       </div>
     </div>
