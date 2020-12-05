@@ -47,7 +47,7 @@ If you cannot come you can watch the live stream of the services or catch up on 
 # Watch a carol service at home (featuring Roger Carswell)
 
 <div class="row">
-    <div class="col m6 offset-m3">
+    <div class="col s12 m6 offset-m3">
       <div class="card">
         <div class="card-image">
           <img src="{{ 'img/christmas/home-for-christmas-cd.jpg' | relative_url }}">
