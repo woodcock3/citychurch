@@ -42,11 +42,9 @@ If you cannot come you can watch the live stream of the services or catch up on 
 <br>
 <br>
 
-<iframe frameborder="0" height="400" scrolling="no" src="https://cecleeds.churchsuite.com/embed/calendar/featured?category=1&num_results=6&body_bgcolor=01a8ff&filters_bgcolor=be4bdb&event_bgcolor=fa5252&event_border_color=fd7e14&heading_color=7950f2&text_color=e64980&icon_color=fa5252" style="border-width:0" width="100%"></iframe>
+# Watch a carol service at home (featuring Roger Carswell)
+Home for Christmas is a collection of Christmas Songs, Bible readings and a short talk by Roger Carswell.
 
 <div class="hero-image">
   <img src="{{ 'img/christmas/xmas_city.jpg' | relative_url }}">
 </div>
-
-<iframe frameborder="0" height="1000" scrolling="yes" src="https://cecleeds.churchsuite.com/events/3w1srv1q?details=1&photo=1&description=1&location=1&gmap=0&signup_form=1" style="border-width:0" width="100%"></iframe>
-
