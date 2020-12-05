@@ -41,8 +41,9 @@ If you cannot come you can watch the live stream of the services or catch up on 
 
 <br>
 <br>
-
 <div class="divider"></div>
+<br>
+<br>
 
 # Watch a carol service at home (featuring Roger Carswell)
 
