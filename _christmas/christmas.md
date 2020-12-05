@@ -49,7 +49,7 @@ Home for Christmas is a collection of Christmas Songs, Bible readings and a shor
     <div class="col s12 m6">
       <div class="card">
         <div class="card-image">
-          <img src="img/christmas/home-for-christmas-cd.jpg">
+          <img src="{{ 'img/christmas/home-for-christmas-cd.jpg' | relative_url }}">
           <span class="card-title">Home for Christmas</span>
           <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
         </div>
