@@ -43,7 +43,6 @@ If you cannot come you can watch the live stream of the services or catch up on 
 <br>
 
 # Watch a carol service at home (featuring Roger Carswell)
-Home for Christmas is a collection of Christmas Songs, Bible readings and a short talk by Roger Carswell. Please click the image below to go to their website.
 
 <div class="row">
     <div class="col s12 m6">
