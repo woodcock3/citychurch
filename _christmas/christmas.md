@@ -49,7 +49,7 @@ Home for Christmas is a collection of Christmas Songs, Bible readings and a shor
     <div class="col s12 m6">
       <div class="card">
         <div class="card-image">
-          <img src="{{ 'img/christmas/home-for-christmas-cd.jpg' | relative_url }}" href="https://www.homeforchristmas.org.uk/watch/">
+          <a href="https://fiec.org.uk" target="blank"><img src="{{ 'img/christmas/home-for-christmas-cd.jpg' | relative_url }}"/>
           <a class="btn-floating halfway-fab waves-effect waves-light red" href="https://www.homeforchristmas.org.uk/watch/"><i class="material-icons">add</i></a>
         </div>
         <div class="card-content light-blue-text text-darken-4">
