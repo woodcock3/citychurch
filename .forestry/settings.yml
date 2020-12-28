@@ -13,6 +13,7 @@ sections:
 - type: document
   path: woodcock3.github.io/kids
   label: Kids
+  read_only: false
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
