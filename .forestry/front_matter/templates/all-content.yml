@@ -1,0 +1,22 @@
+---
+label: all-content
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: bg
+  label: bg
+- type: text
+  name: color
+  label: color
+- type: text
+  name: style
+  label: style
+- type: text
+  name: collection_type
+  label: collection_type
+- type: text
+  name: layout
+  label: layout
