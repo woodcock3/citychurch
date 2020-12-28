@@ -13,10 +13,10 @@
 </nav>
     
 <ul class="sidenav" id="mobile-demo">
+  <li><a href="/">Home</a></li>
+  <li><div class="divider"></div></li>
 {% for node in webpage %}
   {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
   <li class="p-{{id}}"><a class="sidenav-close" href="#{{id}}">{{node.title}}</a></li>
 {% endfor %}
-  <li><div class="divider"></div></li>
-  <li><a href="/">Home</a></li>
 </ul>
