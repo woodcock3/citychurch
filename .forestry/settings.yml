@@ -11,7 +11,7 @@ sections:
   label: Posts
   create: all
 - type: document
-  path: https://github.com/woodcock3/woodcock3.github.io/_kids
+  path: _kids
   label: Kids
 upload_dir: uploads
 public_path: "/uploads"
