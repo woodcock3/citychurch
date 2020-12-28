@@ -1,0 +1,19 @@
+---
+label: Page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: bg
+  label: bg
+- type: text
+  name: color
+  label: color
+- type: text
+  name: border-color
+  label: border-color
+- type: text
+  name: fa-icon
+  label: fa-icon
