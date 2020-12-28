@@ -13,6 +13,11 @@ sections:
 - type: document
   path: _kids
   label: Kids
+- type: directory
+  path: _students
+  label: Students
+  create: all
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
