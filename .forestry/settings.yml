@@ -10,9 +10,11 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-- type: document
+- type: directory
   path: _kids
   label: Kids
+  create: all
+  match: "**/*"
 - type: directory
   path: _students
   label: Students
