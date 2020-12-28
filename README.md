@@ -3,10 +3,6 @@ A church jekyll powered multi page site
 This is site is based on http://github.io/t413/SinglePaged
 The original is a single page site. But I have added collections and pages to produce multiple themed pages. 
 
-Google translate
-================
-
-<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 Permissions
 ===========
@@ -16,22 +12,7 @@ The following directory and its content is copyright of City Evangelical Church.
 
 Materialize CSS
 ==============
-[Materialize](https://materializecss.com/grid.html) css is used to build the grids/columns, accordions, etc E.g: Responsive grids for Mobile & desktop
-
-~~~
-<div class="row">
-    <div class="col s12"><p>s12</p></div> #full size grid
-    <div class="col s12 m4 l2"><p>s12 m4</p></div> #
-    <div class="col s12 m4 l8"><p>s12 m4</p></div>
-    <div class="col s12 m4 l2"><p>s12 m4</p></div>
-  </div>
-  <div class="row">
-    <div class="col s12 m6 l3"><p>s12 m6 l3</p></div>
-    <div class="col s12 m6 l3"><p>s12 m6 l3</p></div>
-    <div class="col s12 m6 l3"><p>s12 m6 l3</p></div>
-    <div class="col s12 m6 l3"><p>s12 m6 l3</p></div>
-  </div>
-  ~~~
+[Materialize](https://materializecss.com/grid.html) css is used as a responsive front end framework.
   
 Learn liquid
 ============
@@ -95,7 +76,29 @@ Insert the following code in the <head> section of your index.html (and config.y
 <meta name="msapplication-config" content="/img/browserconfig.xml">
 <meta name="theme-color" content="#009ddf">
 ~~~
-  
+
+Jekyll Codex
+=========
+This site is excellent for pluggin free solutions to common website features - [Jekyll Codex](https://jekyllcodex.org).
+
+
+Font Awesome icons
+======================
+This site uses Font Awesome 4.7 icons. To reference an icon inline use:
+~~~
+    <i class="fa fa-external-link" aria-hidden="true" style="color:black"></i>
+~~~
+
+Markdown
+========
+This site uses Kramdown, visit https://about.gitlab.com/blog/2016/07/19/markdown-kramdown-tips-and-tricks/#font-awesome for tips.
+
+
+PHP
+===
+We manageed to connect the website Jekyll site to a php include on our server. In order of the php include to work it must be referenced as a jekyll include and the section file type must be .html 
+
+
 Other singlepaged sites for ideas
 ====================
 - **The original demo site** is also a live demo, see it at [t413.com/SinglePaged](http://t413.com/SinglePaged)
@@ -256,43 +259,3 @@ So you've got a copy running and there's some new update? Let's update!
     1. `git merge singlepage/publish`
 4. You can alternatively update using rebase. This *rewrites history* (**bad**), but it is cleaner.
     1. `git rebase singlepage/publish`
-
-Accordion
-=========
-## How it works
-Visit: https://jekyllcodex.org/without-plugin/accordion/
-To create an accordion, add the following code to the front matter of your page:
-~~~
-    ---
-    accordion: 
-      - title: this is item 1
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-      - title: this is item 2
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    ---
-~~~
-The code uses no javascript and uses the CSS ‘checkbox hack’ to toggle the content. The accordion deliberately refrains from setting the height of the content blocks. Calculating this height with javascript is required to add animation (slide down), but adds a lot of complexity.
-
-## Installation
-Step 1. The accordion file is called Accordion.html 
-Step 2. Save the file in the ‘_includes’ directory of your project 
-Step 3. Make sure your front matter of your page looks like the example above 
-Step 4. Add the following line to your layout on the place where you want the form to appear:
-
-{% include Accordion.html %}
-
-Font Awesome icons
-======================
-This site uses Font Awesome 4.7 icons. To reference an icon inline use:
-~~~
-    <i class="fa fa-external-link" aria-hidden="true" style="color:black"></i>
-~~~
-
-Markdown
-========
-This site uses Kramdown, visit https://about.gitlab.com/blog/2016/07/19/markdown-kramdown-tips-and-tricks/#font-awesome for tips.
-
-
-PHP
-===
-We manageed to connect the website Jekyll site to a php include on our server. In order of the php include to work it must be referenced as a jekyll include and the section file type must be .html 
