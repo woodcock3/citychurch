@@ -55,14 +55,6 @@ colors:
   turquoise:  '#0fbfcf'
   cityorange: '#f29526'
   cityblue:   '#009ddf'
-  cyan:       '#00dfb2'
-  red_orange: '#df4200'
-  grey:       '#5e5e5e'
-  blue1:      '#0065df'
-  blue2:      '#002edf'
-  blue3:      '#0a00df'
-  bluepurple: '#4200df'
-  citypurple: '#7a00df'
 
 kramdown:
   auto_ids:  false
