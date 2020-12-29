@@ -4,10 +4,10 @@
     <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="left fa fa-bars fa-lg"> MENU</i></a>
     <ul class="hide-on-med-and-down">
       <a class="btn-large collectionnavbtn" href="/">Home</a>
-    {% for node in webpage %}
+      {% for node in webpage %}
       {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
-      <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
-    {% endfor %}
+        <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
+      {% endfor %}
     </ul>
   </div>
 </nav>
