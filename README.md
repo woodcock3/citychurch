@@ -33,21 +33,12 @@ I'm currently using [DeployHQ](https://www.deployhq.com) to build and deploy the
 
 Video and mp3
 =============
-There are two ways to load a video you can embed the video in a the div below:
+To load a video you can embed the video in a the div below:
 
 ~~~
 <div class="icontain"><iframe title="The title of the video" src="//www.youtube-nocookie.com/embed/8SLeE2a6Q4" allowfullscreen></iframe></div>
 ~~~
 
-Or there is a script that will tranform a Youtube or Vimeo URL in the content (on a new line) into an embedded video. It also detects URL’s that point to mp3 files and replaces them with a default HTML5 player. This uses ([Jekyll Codex](https://jekyllcodex.org/without-plugin/open-embed/)) script.
-
-E.g.
-
-~~~
-https://www.mymusic.mp3
-// or
-https://www.youtube.com/watch?v=1ZM-jnXh4uw
-~~~
 
 Imgbot - Optimise images
 ===============
