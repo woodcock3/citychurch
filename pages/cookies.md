@@ -1,7 +1,7 @@
 ---
 title: Cookies
 layout: default
-bg: cityorange
+bg: deep-orange lighten-1
 color: white
 permalink: /cookies/
 tag: page
