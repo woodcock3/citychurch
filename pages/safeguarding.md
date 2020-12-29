@@ -1,8 +1,8 @@
 ---
 title: "Safeguarding Policy"
 layout: default
-bg: black
-color: white
+bgcolor: deep-orange lighten-1
+textcolor: blue-grey-text text-lighten-5
 permalink: /safeguarding/
 tag: page
 ---
