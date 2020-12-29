@@ -1,7 +1,7 @@
 ---
 title: "What we believe"
 layout: default
-bgcolor: blue darken-4
+bgcolor: deep-orange lighten-1
 textcolor: blue-grey-text text-lighten-5
 permalink: /we-believe/
 tag: page
