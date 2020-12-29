@@ -4,12 +4,12 @@
 {% assign counter = 0 %}
 var documents = [{% assign searchable_docs = site.documents | where: "layout", "all_collections" %}{% for page in searchable_docs %}{% if page.url contains '.xml' or page.url contains 'assets' %}{% else %}{
     "id": {{ counter }},
-    "url": "{{ site.url }}{{ page.url }}#{{ page.title }}",
+    "url": "{{ site.url }}{{ page.url }}#{{ page.id }}",
     "title": "{{ page.title }}",
     "body": "{{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
     }, {% endif %}{% endfor %}{% for page in site.posts %}{% if page.url contains '.xml' or page.url contains 'assets' %}{% else %}{
     "id": {{ counter }},
-    "url": "{{ site.url }}{{ page.url | replace "/", "/#"}}",
+    "url": "{{ site.url }}{{ page.url | replace: "/", "/#"}}",
     "title": "{{ page.title }}",
     "body": "{{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
     }, {% endif %}{% endfor %}{% assign searchable_pages = site.html_pages | where: "tag", "page" %}{% for page in searchable_pages %}{
