@@ -4,7 +4,7 @@ layout: default
 textcolor: blue-grey-text text-lighten-5
 bgcolor: blue darken-4
 permalink: /accessibility/
-search: true
+tag: page
 ---
 
 # Accessibility statement
