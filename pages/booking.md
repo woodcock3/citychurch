@@ -1,7 +1,7 @@
 ---
 title: Seat booking
 layout: default
-bgcolor: blue darken-4
+bgcolor: teal
 textcolor: blue-grey-text text-lighten-5
 permalink: /booking/
 tag: page
