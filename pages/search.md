@@ -3,7 +3,7 @@ title: Search
 layout: default
 bgcolor: orange
 textcolor: blue-grey-text text-lighten-5
-permalink: "/search/"
+permalink: /search/
 
 ---
 # Search
