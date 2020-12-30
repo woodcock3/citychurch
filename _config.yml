@@ -31,7 +31,8 @@ google_analytics_key: UA-175591016-1 ## put YOUR key here to enable tracking! (b
 
 ### template colors, used site-wide via css ###
 colors:
-  ##white:        '#eaeaea'
+  white:        '#f8f8f8'
+  black:        '#2e2e2e'
   intro:        '#428bca'
   events:       '#ed7950'
   imnew:        '#66b266'
@@ -42,12 +43,10 @@ colors:
   friday:       '#415992'
   saturday-two: '#39479b'
   contacts:     '#3035A4'
-  black:        '#2e2e2e'
   ckyellow:     '#febd2e'
   ckblue:       '#01a8ff'
-  stuteal:      '#009688'
-  lightteal:    '#b2dfdb'
-  white:      '#f8f8f8'
+  teal:         '#009688'
+  darkteal:     '#004d40'
   blue:       '#002edf'
   green:      '#63bd2f'
   purple:     '#c869bf'
