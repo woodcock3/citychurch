@@ -7,5 +7,7 @@ permalink: /booking/
 tag: page
 ---
 
+Book your seat below for our morning or evening services each Sunday. Please book a seat for everyone coming to the service. This includes young children and babies. 
+
 <iframe frameborder="0" height="600" scrolling="no" src="https://cecleeds.churchsuite.com/embed/calendar/featured?category=1&num_results=6&body_bgcolor=ff7043&filters_bgcolor=ff7043&event_bgcolor=009688&event_border_color=01579b&heading_color=f8f8f8&text_color=f8f8f8&icon_color=f8f8f8" style="border-width:0" width="100%"></iframe>
 
