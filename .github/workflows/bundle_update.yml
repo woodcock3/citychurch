@@ -1,8 +1,10 @@
 name: pull request on bundle update
 on:
-  schedule:
-    - cron: '*/3 * * * *'
-
+  push:
+    paths:
+      - 'Gemfile' 
+  
+  
 jobs:
   bundle-update:
     name: bundle update
