@@ -18,5 +18,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           git_user_name: example_name
           git_email: test@example.com
-          reviewers: supermanner,hoge,fuga // optional
           bundler_version: 2.1.4 // optional
