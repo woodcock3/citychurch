@@ -19,3 +19,10 @@ jobs:
           git_user_name: example_name
           git_email: test@example.com
           bundler_version: 2.1.4 // optional
+          
+          
+#          uses: woodcock3/jekyll4-deploy-gh-pages@master
+ #       env:
+  #        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+   #       GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
+    #      GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
