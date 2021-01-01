@@ -16,13 +16,6 @@ jobs:
         uses: woodcock3/pull-request-on-bundle-update@v1.0.1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          git_user_name: example_name
-          git_email: test@example.com
+          git_user_name: ${{ secrets.HUB_USER }}
+          git_email: ${{ secrets.HUB_EMAIL }}
           bundler_version: 2.1.4 // optional
-          
-          
-#          uses: woodcock3/jekyll4-deploy-gh-pages@master
- #       env:
-  #        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-   #       GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
-    #      GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
