@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - master
+    paths-ignore: 
+      - 'Gemfile'
+      - 'README.md' 
 
 jobs:
   build_and_deploy:
