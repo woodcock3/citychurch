@@ -77,4 +77,4 @@ plugins:
   
 jekyll-get-json:
   - data: cscalendar
-  json: 'https://cecleeds.churchsuite.co.uk/embed/calendar/json'
+    json: 'https://cecleeds.churchsuite.co.uk/embed/calendar/json'
