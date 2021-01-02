@@ -71,9 +71,6 @@ collections:
 
 sass:
   sass_dir: stylesheets/_sass/
-
-plugins:
-  - jekyll_get_json
   
 jekyll-get-json:
   - data: cscalendar
