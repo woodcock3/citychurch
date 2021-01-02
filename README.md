@@ -1,4 +1,4 @@
-A church jekyll powered multi page site
+A church jekyll powered multi page site!
 ======================
 This is site is based on http://github.io/t413/SinglePaged
 The original is a single page site. But I have added collections and pages to produce multiple themed pages. 
