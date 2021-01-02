@@ -13,6 +13,11 @@ blah blah blah
 
 This is under construction
 
-{{ site.data.cscalendar.name }}
+<span>Service name:</span>
+<ul>
+  {% for service in site.data.cscalendar %}
+    <li>Title: {{ service.name }}</li>
+  {% endfor %}    
+</ul>
 
 
