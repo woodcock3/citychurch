@@ -1,7 +1,3 @@
-source 'https://rubygems.org'
-
-gem 'jekyll'
-
-group :jekyll_plugins do
-  gem 'jekyll-get-json'
+source 'https://rubygems.org' do
+  gem "jekyll"
 end
