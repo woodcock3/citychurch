@@ -72,9 +72,6 @@ collections:
 sass:
   sass_dir: stylesheets/_sass/
   
-plugins:
-  - jekyll-get-json
-  
 jekyll_get_json:
-  - data: foo
-    json: 'https://cecleeds.churchsuite.co.uk/embed/calendar/json'
+  data: foo
+  json: 'https://cecleeds.churchsuite.co.uk/embed/calendar/json'
