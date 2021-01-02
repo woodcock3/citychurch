@@ -20,4 +20,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           git_user_name: ${{ secrets.HUB_USER }}
           git_email: ${{ secrets.HUB_EMAIL }}
-          input_bundler_version: 2.1.4 // optional
+          bundler_version: 2.1.4 // optional
