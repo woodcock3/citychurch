@@ -14,3 +14,7 @@ blah blah blah
 This is under construction
 
 {{ site.data.cscalendar.name }}
+
+{% for member in site.data.cscalendar %}
+  Hello {{member[1].name}}
+{% endfor %}
