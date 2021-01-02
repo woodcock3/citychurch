@@ -13,4 +13,4 @@ blah blah blah
 
 This is under construction
 
-{{ site.data.foo.name }}
+{{ site.data.cscalendar.name }}
