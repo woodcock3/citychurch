@@ -17,3 +17,5 @@ fields:
 - type: text
   name: fa-icon
   label: fa-icon
+pages:
+- pages/mark-test.md
