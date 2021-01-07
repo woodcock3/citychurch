@@ -1,9 +1,10 @@
 ---
 title: Mark Test
-bg: ckblue
-color: white
-border-color: ''
-fa-icon: ''
-published: false
-
+layout: default
+textcolor: blue-grey-text text-lighten-5
+bgcolor: deep-orange lighten-1
+permalink: /cookies/
+tag: page
 ---
+
+Mark Test
