@@ -7,16 +7,21 @@ fields:
   label: title
 - type: text
   name: bg
-  label: bg
+  label: background colour
+  default: ckblue
 - type: text
   name: color
-  label: color
+  label: text color
+  default: white
 - type: text
   name: style
   label: style
 - type: text
   name: collection_type
   label: collection_type
+  default: kids
+  description: what folder is it in Kids, Students...
 - type: text
   name: layout
   label: layout
+  default: all_collections
