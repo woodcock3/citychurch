@@ -16,6 +16,8 @@ fields:
 - type: text
   name: style
   label: style
+  description: This can be left blank or write center if all the text is to be centred
+    on the webpage
 - type: text
   name: collection_type
   label: collection_type
