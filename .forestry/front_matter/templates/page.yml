@@ -6,16 +6,27 @@ fields:
   name: title
   label: title
 - type: text
-  name: bg
-  label: bg
+  name: layout
+  label: layout
+  hidden: false
+  default: default
 - type: text
-  name: color
-  label: color
+  name: textcolor
+  label: textcolor
+  default: blue-grey-text text-lighten-5
 - type: text
-  name: border-color
-  label: border-color
+  name: bgcolor
+  label: background colour
+  default: deep-orange lighten-1
 - type: text
-  name: fa-icon
-  label: fa-icon
+  name: permalink
+  label: permalink
+  description: 'E.g. /christmas/ '
+- name: tag
+  type: text
+  config:
+    required: false
+  label: tag
+  default: page
 pages:
 - pages/mark-test.md
