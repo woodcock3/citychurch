@@ -10,11 +10,6 @@ sections:
   label: Posts
   create: all
 - type: heading
-  label: Single pages
-- type: jekyll-pages
-  label: Pages
-  create: all
-- type: heading
   label: Section Pages
 - type: directory
   path: _kids
@@ -31,6 +26,11 @@ sections:
   label: Christmas
   create: all
   match: "**/*"
+- type: heading
+  label: Single pages
+- type: jekyll-pages
+  label: Pages
+  create: all
 upload_dir: img
 public_path: "/img"
 front_matter_path: ''
