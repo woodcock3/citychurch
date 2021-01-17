@@ -2,7 +2,7 @@
 title: "Get involved"
 bg: pink
 color: white
-border-color: saturday-two
+border-color: darkpink
 fa-icon: cog
 collection_type: "students"
 layout: all_collections
