@@ -1,6 +1,6 @@
 ---
 title: "Get involved"
-bg: friday
+bg: pink
 color: white
 border-color: saturday-two
 fa-icon: cog
