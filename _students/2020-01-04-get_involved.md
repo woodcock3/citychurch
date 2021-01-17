@@ -1,6 +1,6 @@
 ---
 title: "Get involved"
-bg: pink
+bg: peach
 color: white
 border-color: darkpink
 fa-icon: cog
