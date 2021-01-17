@@ -3,6 +3,7 @@ title: Search
 layout: default
 bgcolor: deep-orange lighten-1
 textcolor: blue-grey-text text-lighten-5
+style: center
 permalink: /search/
 ---
 
