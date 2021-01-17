@@ -46,10 +46,8 @@ colors:
   ckyellow:     '#febd2e'
   ckblue:       '#01a8ff'
   teal:         '#009688'
-  darkteal:     '#e91e63'
+  pink:       '#e91e63'
   purple:     '#c869bf'
-  orange:     '#fab125'
-  turquoise:  '#0fbfcf'
   cityorange: '#f29526'
   cityblue:   '#009ddf'
 
