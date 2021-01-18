@@ -50,23 +50,17 @@ We will review this statement and our policy and procedures every year with the 
 A copy of the full policy and procedures is available from Lianna Smith.
 Signed by elders
 
-Signed​______________________       ______________________       ______________________  
+Signed​:
 
-           Michael Leurhmann                    David Stone                                  John Keene                    
+Michael Leuhrmann
+David Lovell
+John Keane
+Dave Stone
+Andrew Smith
+Paul Woodcock
 
- 
+Date: 19/01/2021
 
-            ______________________       ______________________       ______________________    
-
-           Dave Stone                                    Paul Woodcock                            Andrew Smith                
-
- 
-
-Date ​______________________
-
- 
-
-
 
 2. NAMED PERSON(S) FOR SAFEGUARDING
 
