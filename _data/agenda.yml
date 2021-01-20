@@ -42,11 +42,11 @@ tuesday:
     text: As tradicionais Braga Geek Nights estão de volta! Vamos criar o ambiente ideal para te divertires. Vem ter connosco para um serão de informática e convívio.
 
 wednesday:
-  - title: "Last weeks recorded church service"
+  - title: "Last weeks recorded morning service"
     time: 10:45am every Sunday
     place: City Evangelical Church
     typeform: youtube/
-    text: Catch up on our last Sunday service if you could not come or missed the live stream.  
+    text: Catch up on our last Sunday morning service if you could not come or missed the live stream.  
 
   - title: Recent services and devotions
     typeform: https://www.youtube.com/channel/UCALb0SwFaFdPY2gwOesvb_g
