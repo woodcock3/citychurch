@@ -22,20 +22,20 @@ The eldership of City Evangelical Church is committed to the safeguarding of chi
 
 ### Specifically:
 
-• We recognise that we all have a responsibility to help prevent the physical, sexual and emotional abuse as well as the neglect of children and young people (those under 18 years of age) and to report any such abuse that we discover or suspect.
-• We believe every child and young person should be valued, safe and happy.  We want to make sure that children and young people that we have contact with know this and are empowered to tell us if they are suffering harm.
-• All children and young people have the right to be treated with respect, to be listened to and to be protected from all forms of abuse.
-• We recognise that we all have a responsibility to help prevent the physical, sexual, psychological, financial and discriminatory abuse as well as the neglect of adults, particularly those who have care and support needs and to report any such abuse that we discover or suspect.
-• We undertake to exercise proper care in the appointment and selection of all those who will work with children, young people and adults with care and support needs.
-• We believe in the necessity of creating a healthy culture in our church where the value of all people is recognised and challenges are responded to appropriately.
-• When someone attending the church is known to have abused children, young people or vulnerable adults, measures will be put in place to ensure their protection.
+*  We recognise that we all have a responsibility to help prevent the physical, sexual and emotional abuse as well as the neglect of children and young people (those under 18 years of age) and to report any such abuse that we discover or suspect.
+*  We believe every child and young person should be valued, safe and happy.  We want to make sure that children and young people that we have contact with know this and are empowered to tell us if they are suffering harm.
+*  All children and young people have the right to be treated with respect, to be listened to and to be protected from all forms of abuse.
+*  We recognise that we all have a responsibility to help prevent the physical, sexual, psychological, financial and discriminatory abuse as well as the neglect of adults, particularly those who have care and support needs and to report any such abuse that we discover or suspect.
+*  We undertake to exercise proper care in the appointment and selection of all those who will work with children, young people and adults with care and support needs.
+*  We believe in the necessity of creating a healthy culture in our church where the value of all people is recognised and challenges are responded to appropriately.
+*  When someone attending the church is known to have abused children, young people or vulnerable adults, measures will be put in place to ensure their protection.
 
 
 ### We are committed to:
 
-• Recognising the requirements for UK legislation / good practice recommendations in relation to safeguarding children and adults – this will be done through our Safeguarding Policy which represents an appropriate interpretation of the relevant legislation/guidelines in the context of City Evangelical Church.
-• Implementing the requirements of legislation regarding people with disabilities, which includes ensuring that the premises meet the requirements of the Equality Act 2010 and all other relevant legislation, and that it is welcoming and inclusive.
-• Providing appropriate safeguarding training for its workers and volunteers and having a requirement that they adhere to the agreed principles and procedures within our Safeguarding Policy.
+*  Recognising the requirements for UK legislation / good practice recommendations in relation to safeguarding children and adults – this will be done through our Safeguarding Policy which represents an appropriate interpretation of the relevant legislation/guidelines in the context of City Evangelical Church.
+*  Implementing the requirements of legislation regarding people with disabilities, which includes ensuring that the premises meet the requirements of the Equality Act 2010 and all other relevant legislation, and that it is welcoming and inclusive.
+*  Providing appropriate safeguarding training for its workers and volunteers and having a requirement that they adhere to the agreed principles and procedures within our Safeguarding Policy.
 • Supporting all employees, the Safeguarding Co-ordinators and ministry leaders in their work and in any action they may need to take in order to protect children and vulnerable adults.
 • Supporting parents and their families as well as those who are affected by or perpetrate abuse.
 • Nurturing, protecting and safeguarding children and young people.
