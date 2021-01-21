@@ -36,18 +36,18 @@ The eldership of City Evangelical Church is committed to the safeguarding of chi
 *  Recognising the requirements for UK legislation / good practice recommendations in relation to safeguarding children and adults – this will be done through our Safeguarding Policy which represents an appropriate interpretation of the relevant legislation/guidelines in the context of City Evangelical Church.
 *  Implementing the requirements of legislation regarding people with disabilities, which includes ensuring that the premises meet the requirements of the Equality Act 2010 and all other relevant legislation, and that it is welcoming and inclusive.
 *  Providing appropriate safeguarding training for its workers and volunteers and having a requirement that they adhere to the agreed principles and procedures within our Safeguarding Policy.
-• Supporting all employees, the Safeguarding Co-ordinators and ministry leaders in their work and in any action they may need to take in order to protect children and vulnerable adults.
-• Supporting parents and their families as well as those who are affected by or perpetrate abuse.
-• Nurturing, protecting and safeguarding children and young people.
-• Supporting, resourcing, training, monitoring and providing supervision to all those who regularly undertake this work.
-• Regularly reviewing the operational guidelines attached.
+-  Supporting all employees, the Safeguarding Co-ordinators and ministry leaders in their work and in any action they may need to take in order to protect children and vulnerable adults.
+-  Supporting parents and their families as well as those who are affected by or perpetrate abuse.
+-  Nurturing, protecting and safeguarding children and young people.
+-  Supporting, resourcing, training, monitoring and providing supervision to all those who regularly undertake this work.
+-  Regularly reviewing the operational guidelines attached.
 
 
 ### We recognise:
 
-• Leeds Children’s Social Work Service has lead responsibility for investigating all allegations or suspicions of abuse where there are concerns about a child or young person.  Leeds Adult Social Care has lead responsibility for investigating all allegations or suspicions of abuse where there are concerns about an adult with care and support needs.
-• Where an allegation suggests that a criminal offence may have been committed then the Police should be contacted as a matter of urgency.
-• Safeguarding is the responsibility of each person in the church, and any abuse discovered or suspected should be reported to the Safeguarding Co-ordinator in the first instance.
+-  Leeds Children’s Social Work Service has lead responsibility for investigating all allegations or suspicions of abuse where there are concerns about a child or young person.  Leeds Adult Social Care has lead responsibility for investigating all allegations or suspicions of abuse where there are concerns about an adult with care and support needs.
+-  Where an allegation suggests that a criminal offence may have been committed then the Police should be contacted as a matter of urgency.
+-  Safeguarding is the responsibility of each person in the church, and any abuse discovered or suspected should be reported to the Safeguarding Co-ordinator in the first instance.
 
 This policy defines the principle and practice by which the Church will work with children, young people and vulnerable adults.  
 
@@ -58,7 +58,7 @@ A copy of the full policy and procedures is available from Lianna Smith.
 
 Signed by elders:
 
-Michael Leuhrmann
+Michael Luehrmann
 David Lovell
 John Keane
 Dave Stone
@@ -121,14 +121,14 @@ Recognising abuse
  
 Possible signs of abuse include (but not limited to):
 
-• Unexplained or suspicious injuries such as bruising cuts or burns, particularly if situated on a part of the body not normally prone to such injuries or the explanation of the cause of the injury is does not seem right.
-• The child/young person or adult discloses abuse, or describes what appears to be an abusive act.
-• Someone else (child or adult) expresses concern about the welfare of another child, young person or vulnerable adult.
-• Unexplained change in behaviour such as withdrawal or sudden outbursts of temper.
-• Inappropriate sexual awareness or sexually explicit behaviour.
-• Distrust of adults, particularly those with whom a close relationship would normally be expected.
-• Difficulty in making friends.
-• Eating disorders, depression, self harm or suicide attempts.
+-  Unexplained or suspicious injuries such as bruising cuts or burns, particularly if situated on a part of the body not normally prone to such injuries or the explanation of the cause of the injury is does not seem right.
+-  The child/young person or adult discloses abuse, or describes what appears to be an abusive act.
+-  Someone else (child or adult) expresses concern about the welfare of another child, young person or vulnerable adult.
+-  Unexplained change in behaviour such as withdrawal or sudden outbursts of temper.
+-  Inappropriate sexual awareness or sexually explicit behaviour.
+-  Distrust of adults, particularly those with whom a close relationship would normally be expected.
+-  Difficulty in making friends.
+-  Eating disorders, depression, self harm or suicide attempts.
  
 **DOMESTIC ABUSE:** Anyone can be a victim of domestic abuse, regardless of gender, age, ethnicity, socio-economic status, sexuality or background. The cross-Government definition of domestic violence and abuse is any incident or pattern of incidents of controlling, coercive or threatening behaviour, violence or abuse between those aged 16 or over who are or have been intimate partners or family members regardless of gender or sexuality. This can encompass, but is not limited to psychological, physical, sexual, financial and emotional abuse. While this definition applies to those aged 16 or above, adult to parent violence and abuse can equally involve children under 16.
 
@@ -137,9 +137,9 @@ Possible signs of abuse include (but not limited to):
 
 If a worker or volunteer becomes aware of a safeguarding issue, under no circumstances should they carry out their own investigation into an allegation or suspicion of abuse.  The following procedures should be applied:
  
-• The person in receipt of allegations or suspicions of abuse should report concerns as soon as possible to Lianna Smith (hereafter the "Safeguarding Co-ordinator") telephone number 07828113957 and followed up in writing on a ‘Cause for concern form’ (annexed to this policy and available in each Ministry Room and the main auditorium).
-• In the absence of the Safeguarding Co-ordinator or, if the suspicions in any way involve the Safeguarding Co-ordinator, then the report should be made to Mark Molloy (hereafter the "Deputy Safeguarding Co-ordinator") telephone 07434626002.  If the suspicions implicate both the Safeguarding Co-ordinator and the Deputy, then the report should be made in the first instance to Michael Luehrmann (telephone number 07584437380) or Thirtyone:eight. Alternatively contact Leeds Children’s Social Work Service or the Police.
-• Where the concern is about a child the Safeguarding Co-ordinator should contact Children’s Social Services.  Where the concern is regarding an adult in need of protection contact Adult Social Services or take advice from Thirtyone:eight (as above).
+-  The person in receipt of allegations or suspicions of abuse should report concerns as soon as possible to Lianna Smith (hereafter the "Safeguarding Co-ordinator") telephone number 07828113957 and followed up in writing on a ‘Cause for concern form’ (annexed to this policy and available in each Ministry Room and the main auditorium).
+-  In the absence of the Safeguarding Co-ordinator or, if the suspicions in any way involve the Safeguarding Co-ordinator, then the report should be made to Mark Molloy (hereafter the "Deputy Safeguarding Co-ordinator") telephone 07434626002.  If the suspicions implicate both the Safeguarding Co-ordinator and the Deputy, then the report should be made in the first instance to Michael Luehrmann (telephone number 07584437380) or Thirtyone:eight. Alternatively contact Leeds Children’s Social Work Service or the Police.
+-  Where the concern is about a child the Safeguarding Co-ordinator should contact Children’s Social Services.  Where the concern is regarding an adult in need of protection contact Adult Social Services or take advice from Thirtyone:eight (as above).
  
 
 ## 5. WHAT TO DO IF A CHILD, YOUNG PERSON OR VULNERABLE ADULT MAKES A DISCLOSURE/ALLEGATION
@@ -147,16 +147,16 @@ If a worker or volunteer becomes aware of a safeguarding issue, under no circums
 It is important that you treat any allegations extremely seriously. Never think that someone else may be dealing with it. If you receive information that a child may be at risk of, or experiencing harm the following steps should be taken:  
 
 ### Stage 1
-• Keep calm and try to maintain a neutral expression
-• Initially talk to the child/young person/vulnerable adult about what you are observing. It is okay to ask questions, for example: “I’ve noticed that you don’t appear yourself today, is everything okay? Ask questions such as ‘tell me’, ‘explain’ or ‘describe’ when seeking clarity. But never use leading questions, for example: “are you upset because someone has hurt you”.
-• Listen carefully to what the child/young person/vulnerable adult has to say and take it seriously. Reassure them that you believe what they are saying.
-• Be honest and tell the child/young person/vulnerable adult that you will need to let someone else know – do not promise confidentiality.
-• It is not the responsibility of groups to investigate incidences of suspected abuse but to gather information and refer only.
-• Notify the Safeguarding Co-ordinator or Deputy Safeguarding Co-ordinator immediately (page 4).
-• Record what was said as soon as possible after any disclosure; the person who receives the allegation or has the concern, should complete a Cause for Concern form and ensure it is signed and dated.  
+-  Keep calm and try to maintain a neutral expression
+-  Initially talk to the child/young person/vulnerable adult about what you are observing. It is okay to ask questions, for example: “I’ve noticed that you don’t appear yourself today, is everything okay? Ask questions such as ‘tell me’, ‘explain’ or ‘describe’ when seeking clarity. But never use leading questions, for example: “are you upset because someone has hurt you”.
+-  Listen carefully to what the child/young person/vulnerable adult has to say and take it seriously. Reassure them that you believe what they are saying.
+-  Be honest and tell the child/young person/vulnerable adult that you will need to let someone else know – do not promise confidentiality.
+-  It is not the responsibility of groups to investigate incidences of suspected abuse but to gather information and refer only.
+-  Notify the Safeguarding Co-ordinator or Deputy Safeguarding Co-ordinator immediately (page 4).
+-  Record what was said as soon as possible after any disclosure; the person who receives the allegation or has the concern, should complete a Cause for Concern form and ensure it is signed and dated.  
  
 ### Stage 2
-• The Safeguarding Co-ordinator should take immediate action if there is a suspicion that a child/young person/vulnerable adult has been abused or are likely to be abused.  In this situation the Safeguarding Co-ordinator should contact the Police and/or the Leeds Children’s Social Work Duty and Advice Team. If a referral is made direct to the Duty and Advice team this should be followed up in writing within 24 hrs.
+-  The Safeguarding Co-ordinator should take immediate action if there is a suspicion that a child/young person/vulnerable adult has been abused or are likely to be abused.  In this situation the Safeguarding Co-ordinator should contact the Police and/or the Leeds Children’s Social Work Duty and Advice Team. If a referral is made direct to the Duty and Advice team this should be followed up in writing within 24 hrs.
 • Parents/carers will need to be informed about any referral to Children and Young people’s Social Care unless to do so would place the child/young person/vulnerable adult at an increased risk of harm. If there is uncertainty about whether to notify a parent/carer about a referral the timing should decided in discussion with Social Services and or the Police.
 • Full documentation of the investigation and of the outcome is to be kept securely, and treated as confidential by the elders.
 • The Safeguarding Co-ordinator will seek the consent of the child, young person and or their parent to provide feedback to the person raising the concern. If consent is not provided, the referrer will as a minimum be reassured that their concerns have been dealt with appropriately.
