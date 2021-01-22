@@ -2,9 +2,8 @@ name: pull request on bundle update
 on:
   push:
     paths:
-      - 'Gemfile' 
-  
-  
+      - 'Gemfile'
+
 jobs:
   bundle-update:
     name: bundle update
