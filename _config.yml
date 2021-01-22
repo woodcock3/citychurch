@@ -70,7 +70,7 @@ collections:
 
 sass:
   sass_dir: stylesheets/_sass/
- 
+
 jekyll_get_json:
   - data: cscalendar
     json: 'https://cecleeds.churchsuite.co.uk/embed/calendar/json'
