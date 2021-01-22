@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - master
-    paths-ignore: 
+    paths-ignore:
       - 'Gemfile'
       - 'README.md'
       - 'LICENSE.txt'
@@ -31,7 +31,7 @@ jobs:
 
 
 
-# deploy to host        
+# deploy to host
 #on: push
 #name: Publish Website
 #jobs:
