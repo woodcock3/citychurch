@@ -62,12 +62,16 @@ function lunr_search(term) {
     .lunrsearchresult a:hover .title {text-decoration: underline;}
 </style>
 
-
-<form onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <div class="input-field">
-      <p><input type="text" class="form-control" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Search"></p>
+<div class="row">
+  <form onSubmit="return lunr_search(document.getElementById('lunrsearch').value);" class="col s12">
+    <div class="row">
+      <div class="input-field col s12">
+        <input type="text" class="form-control" id="lunrsearch" name="q" maxlength="255" value="">
+        <label for="lunrsearch">Search</label>
+      </div>
     </div>
-</form>
+  </form>
+</div>
 <div id="lunrsearchresults">
     <ul></ul>
 </div>
