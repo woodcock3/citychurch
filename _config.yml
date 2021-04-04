@@ -74,3 +74,8 @@ sass:
 jekyll_get_json:
   - data: cscalendar
     json: 'https://cecleeds.churchsuite.co.uk/embed/calendar/json'
+
+plugins:
+  - jekyll-purgecss
+
+css_dir: "stylesheets" # defaults to "css"
