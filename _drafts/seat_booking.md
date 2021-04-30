@@ -6,7 +6,7 @@ bgcolor: blue darken-4
 permalink: /seat-booking/
 ---
 
-# Book a seat at church
+# Book a seat at church.
 
 ## This form will email church on submission
 <div class="row">
