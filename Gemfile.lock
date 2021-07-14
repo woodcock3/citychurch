@@ -1,16 +1,26 @@
+GIT
+  remote: https://github.com/woodcock3/jekyll-autoprefixer
+  revision: 3ccad28984f8662a0507fc462221bf3ede2a992d
+  specs:
+    jekyll-autoprefixer (1.0.2)
+      autoprefixer-rails
+
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.7.0)
+    addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
+    autoprefixer-rails (10.2.5.1)
+      execjs (> 0)
     colorator (1.1.0)
-    concurrent-ruby (1.1.8)
+    concurrent-ruby (1.1.9)
     deep_merge (1.2.1)
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
-    ffi (1.15.0)
+    execjs (2.8.1)
+    ffi (1.15.3)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (1.8.10)
@@ -49,7 +59,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
-    rb-fsevent (0.10.4)
+    rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.5)
@@ -65,8 +75,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll
+  jekyll (~> 4.2)
+  jekyll-autoprefixer!
   jekyll-get-json
 
 BUNDLED WITH
-   2.2.15
+   2.2.23
