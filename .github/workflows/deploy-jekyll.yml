@@ -1,3 +1,4 @@
+
 name: Jekyll Deploy
 
 on:
@@ -9,25 +10,41 @@ on:
       - 'README.md'
       - 'LICENSE.txt'
 
+# Build site using jekyll
 jobs:
-  build_and_deploy:
+  jekyll:
     runs-on: ubuntu-latest
     steps:
-      - name: GitHub Checkout
-        uses: actions/checkout@v2.1.0
-      - name: Bundler Cache
-        uses: actions/cache@v2.1.0
+      # checkout code
+      - uses: actions/checkout@v2
+      # Use ruby/setup-ruby to shorten build times
+      # https://github.com/ruby/setup-ruby
+      - uses: ruby/setup-ruby@v1
         with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
-      - name: Build & Deploy to GitHub Pages
-        uses: woodcock3/jekyll4-deploy-gh-pages@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
-          GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
+          ruby-version: 2.7 # Not needed with a .ruby-version file
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+        # Install Node as this is needed for PurgeCSS
+      # - name: Setup Node
+      #  uses: actions/setup-node@v1
+      #  with:
+      #    node-version: '14'
+        # Install PurgeCSS (needs to be in your package.json)
+      # - run: npm install sharp
+      # use jekyll-action-ts to build
+      # https://github.com/limjh16/jekyll-action-ts
+      - uses: limjh16/jekyll-action-ts@v2
+        with:
+          enable_cache: true
+
+      # use actions-gh-pages to deploy
+      # https://github.com/peaceiris/actions-gh-pages
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          # GITHUB_TOKEN secret is set up automatically
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+       
 
 
 
