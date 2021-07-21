@@ -1,0 +1,39 @@
+office:
+  - address: City Evangelical Church, Cemetery Road, Beeston, Leeds, LS11 8SX
+    phone: <a href="tel:+44113 2708568">0113 2708568</a>
+    mailing: <script>contact1("office","cecleeds",10,"")</script><noscript>You must enable JavaScript to view this text.</noscript>
+    maplocation: https://goo.gl/maps/EoD83hYx9Lob5TpK6
+
+pastor:
+  - name: Michael Luehrmann
+    phone: <a href="tel:+447584437380">07584437380</a>
+    mailing: <script>contact1("pastor","cecleeds",10,"")</script><noscript>You must enable JavaScript to view this text.</noscript>
+
+safeguard_lead:
+  - name: Lianna Smith
+    phone: <a href="tel:+447828113957">07828113957</a>
+    mailing: <script>contact1("lianna.smith","cecleeds",10,"")</script><noscript>You must enable JavaScript to view this text.</noscript>
+
+deputy_safeguard: 
+  - name: Mark Molloy
+    phone: <a href="tel:+447434626002">07434626002</a>
+    mailing: <script>contact1("mark.molloy","cecleeds",10,"")</script><noscript>You must enable JavaScript to view this text.</noscript>
+ 
+citykidsmaiil: <script>contact1("hello","cecleeds",10,"")</script><noscript>You must enable JavaScript to view this text.</noscript>
+
+elders:
+  - name: Michael Luehrmann
+    role: Senior Pastor
+    info: 
+  - name: David Lovell
+    role: Assosiate Pastor
+    info:
+  - name: John Keane
+    role: Elder
+    info:
+  - name: Andrew Smith
+    role: Elder
+    info:
+  - name: Paul Woodcock
+    role: Elder
+    info:
